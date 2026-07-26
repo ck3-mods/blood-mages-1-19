@@ -4,7 +4,12 @@
     decision_group_type = bm_decision_group
 
     is_shown = {
-        has_faith = faith:quintessence_faith
+		faith = {
+			OR = {
+				religion = { is_in_family = rf_quintessence }
+				has_doctrine_parameter = witchcraft_accepted
+			}
+		}
         not = { has_trait = lifestyle_blood_mage }
     }
 
