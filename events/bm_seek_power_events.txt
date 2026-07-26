@@ -174,10 +174,6 @@ seek_power.003 = {
                     scope:recipient = {has_trait = pure_blooded}
                     NOT = {has_trait = pure_blooded}
                 }
-                AND = {
-                    scope:recipient = {has_trait = blood_of_numenor}
-                    NOT = {has_trait = blood_of_numenor_10}
-                }
             }
         }
     }

@@ -3,7 +3,7 @@ This is an independent CK3 1.19 compatibility fork of [url=https://steamcommunit
 
 [list]
     [*] Original mod and concept: Nicelander
-    [*] Fork source: https://github.com/CamilleHbp/ck3_blood_mage
+    [*] Fork source: https://github.com/ck3-mods/blood-mages-1-19
     [*] Distributed under the Apache License 2.0 included with the mod
 [/list]
 
@@ -60,7 +60,6 @@ Blood Mages can use this Lifeforce to perform various actions:
     [*] Create Blood Golems, and enhance their traits at the cost of piety
     [*] Drain GOOD congenital traits from prisoners (beauty, intelligence, physique, giant, fecund)
     [*] Remove their own BAD congenital traits, by draining prisoners (ugly, slow, delicate)
-    [*] Drain some overhaul traits (currently only Blood of Numenor from LOTR, more WIP)
 [/list]
 
 [h1]The Cult of Quintessence[/h1]
