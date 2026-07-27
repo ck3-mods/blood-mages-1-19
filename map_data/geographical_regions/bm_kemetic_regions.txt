@@ -1,0 +1,27 @@
+﻿bm_crimson_ka_heartlands = {
+	duchies = {
+		# Egypt and Sinai
+		d_alexandria
+		d_delta
+		d_cairo
+		d_al-said
+		d_eastern_desert
+		d_al-wahat
+		d_sinai
+
+		# Nubia and the lands of the Nile cataracts
+		d_nobatia
+		d_makuria
+		d_shamir
+		d_alwa
+		d_sennar
+
+		# Blemmyia, Kordofan, and Darfur
+		d_naqis
+		d_bazin
+		d_baqlin
+		d_kordofan
+		d_darfur
+		d_west_darfur
+	}
+}

@@ -7,7 +7,10 @@
 
     is_shown = {
         has_trait = lifestyle_blood_mage
-        NOT = { faith = { religion = { is_in_family = rf_quintessence } } }
+        NOR = {
+            faith = faith:bm_crimson_ka_faith
+            faith = { religion = { is_in_family = rf_quintessence } }
+        }
         # Disable for overhaul mods
         NOT = { is_playing_overhaul_mod = yes }
 

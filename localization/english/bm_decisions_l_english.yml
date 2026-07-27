@@ -16,6 +16,14 @@
   become_blood_cultist_decision_tooltip: "Renounce your current faith and embrace the forbidden power of blood magic"
   become_blood_cultist_decision_desc: "The whispers have grown too persistent to ignore. Tales of immortality, of power drawn from the very essence of life itself. The old faiths are hollow shells compared to the tangible power offered by the Cult of Blood. Their sacred texts speak of transcendence through sacrifice, of bending the laws of nature through the manipulation of life's crimson currency. Perhaps it is time to abandon the empty promises of old gods and embrace the visceral truth that flows through every living being."
 
+  # Convert to the Egyptian-Kushite blood cult
+  bm_embrace_crimson_ka_decision: "Restore the Crimson Ka Mysteries"
+  bm_embrace_crimson_ka_decision_confirm: "Let the Red Nile flow through me"
+  bm_embrace_crimson_ka_decision_tooltip: "Bind the arts of the Blood Mage to the ancient rites of Egypt and Kush"
+  bm_embrace_crimson_ka_decision_desc: "The old temple fragments speak of the #italic ka#! as a vessel of vital force, sustained by offerings and guarded beyond death. To a Blood Mage, their meaning is unmistakable: the life hidden in blood is the same current the priests of the Nile named #italic heka#!.\n\nBy joining the secret rites of Egypt and Kush to the practice of hematurgy, I could restore a mystery forgotten beneath sand and flood. Wepwawet would open the way, the ancestors would lend their strength, and every sacred confluence of the Quintessence would become a station along the Red Nile that flows beneath the world."
+  bm_embrace_crimson_ka_heritage_requirement: "Your [faith|E], cultural ancestry, or [realm_capital|E] must be rooted in Egypt, Kush, Nubia, or Sudan"
+  bm_embrace_crimson_ka_decision_effect_tt: "You embrace the [GetFaithByKey('bm_crimson_ka_faith').GetName]"
+
   # Become a blood mage
   bm_self_initiation_decision: "Attempt the Self-Initiation"
   bm_self_initiation_decision_confirm: "I am my own crucible."
