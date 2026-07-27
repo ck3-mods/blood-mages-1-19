@@ -1,5 +1,9 @@
 # Changelog - Highlights
 
+## Unreleased
+
+* Added the Cult of the Crimson Ka, an Egyptian–Kushite Blood Mage faith with Kushitism compatibility, the complete Quintessence holy-site network, and a high-Piety regional or ancestral conversion decision.
+
 ## 1.19 compatibility
 * Migrated religion definitions to the CK3 1.19 folder structure.
 * Updated duel, decision AI, trait, and character-template definitions for the 1.19 parser.

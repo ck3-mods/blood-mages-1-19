@@ -10,7 +10,7 @@ This mod is for you if:
 - You want a way for your character to live forever, without being completely immortal
 - You want your character to gain and level up positive physical traits (intelligent, beautiful, etc) in a way that feels part of the game
 
-**Maximum compatibility**: Doesn't overwrite any base game files to work with most other mods, even large overhaul mods such as EK2 or AGOT (tested).
+**Compatibility**: Uses namespaced content wherever possible. The optional Crimson Ka faith is registered through a complete CK3 1.19 Kushitism religion overlay so that Kushite religion checks from RICE and other mods recognize it correctly.
 
 ## Overview
 
@@ -64,6 +64,14 @@ Blood Mages can follow their own unique faith, the Cult of Blood:
 - **Holy Sites**: Almost 50 locations across Europe
 - **Special Bonuses**: Each site grants +1 to skills, to balance the number of sites
 - **Blood Magic University**: Build special duchy buildings to enhance magical study
+
+### The Cult of the Crimson Ka
+
+Blood Mages with Kushite faith, Egyptian/Nubian cultural ancestry, or a realm capital in the Egypt–Nubia–Sudan heartlands can spend 2,000 Piety to restore an Egyptian–Kushite branch of the cult.
+
+- It is a true faith of `kushitism_religion`, so Kushite religion and religion-tag requirements recognize it.
+- It keeps the five Kushite holy sites and every active Cult of the Quintessence holy site.
+- Its tenets are Sacred Shadows, Esotericism, and Ancestor Worship, with Equal gender doctrine and Mummification funerals.
 
 ## Getting Started
 
