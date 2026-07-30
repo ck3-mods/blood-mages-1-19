@@ -2,7 +2,13 @@
 
 ## Unreleased
 
-* Added the Cult of the Crimson Ka, an Egyptian–Kushite Blood Mage faith with Kushitism compatibility, the complete Quintessence holy-site network, and a high-Piety regional or ancestral conversion decision.
+* Retained all seven standalone Cult of Quintessence heritage faiths and added automatic conversion routing for Christian, Islamic, Jewish, Eastern, Sinitic, Ásatrú, and other unreformed origins, with a documented Christian Syncretism fallback.
+* Moved native-religion integration, including the Cult of the Crimson Ka, into the optional Blood Mages - Native Religions submod so the main mod no longer overlays vanilla religions.
+* Moved the Blood Magic story panel, progression display, and lifecycle initialization into Blood Mages so compatibility submods only extend the base-owned panel.
+* Added exact Major/Minor Lifeforce stack counts and independently collapsible, scrollable Blood Golem and Crimson retinue rosters after the Blood Magic decisions, with compact empty states, atomic story creation across every Blood Mage acquisition path, missing-story reconciliation when Situations opens, automatic refresh, and a compact standard refresh control on each roster.
+* Added inline mechanic tooltips to the Lifeforce and Attunement status lines.
+* Condensed the five discipline counters into a two-row grid with their dedicated trait-track icons.
+* Fixed folded and empty character rosters retaining the expanded scroll-area height while preserving expandable content, and completed the refresh control's fade-out/fade-in cycle.
 
 ## 1.19 compatibility
 * Migrated religion definitions to the CK3 1.19 folder structure.

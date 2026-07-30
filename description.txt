@@ -68,16 +68,19 @@ Blood Mages can follow their own unique faith, The Cult of Quintessence: https:/
     [*] [b]Holy Sites[/b]: Almost 50 locations across Europe
     [*] [b]Special Bonuses[/b]: A few special ones, but most grant a small bonus to lifespan / health / disease resistance to balance the number of sites
     [*] [b]Blood Magic University[/b]: Build special duchy buildings to enhance magical study
-    [*] [b]Christian Syncretism[/b] allows Blood Cultists to live their pagan ways without being hated by their Christian neighbours.
+    [*] [b]Automatic Religious Heritage[/b]: There is no manual selector—conversion examines the character's previous faith and chooses Christian, Islamic, Jewish, Eastern, or Sinitic Syncretism; an Ásatrú-specific traditional faith; or a faith for other unreformed traditions
+    [*] All seven variants are standalone faiths within the Cult of Quintessence, preserving the main mod's compatibility with vanilla religions
+    [*] Faiths outside the recognized families use Christian Syncretism as a backwards-compatible fallback
 [/list]
 
-[h1]The Cult of the Crimson Ka[/h1]
-Blood Mages with Kushite faith, Egyptian or Nubian cultural ancestry, or a realm capital in the Egypt-Nubia-Sudan heartlands can spend 2,000 Piety to restore an Egyptian-Kushite branch of the cult.
+[h1]Optional Native Religions Submod[/h1]
+The separate [b]Blood Mages - Native Religions[/b] compatibility submod places a distinct, lore-specific Blood Mage cult inside every vanilla religion.
 [list]
-    [*] A true Kushitism faith, recognized by Kushite religion checks in RICE and other mods
-    [*] All five Kushite holy sites and every active Cult of the Quintessence holy site
-    [*] Sacred Shadows, Esotericism, and Ancestor Worship
-    [*] Equal gender doctrine and Mummification funerals
+    [*] Automatic conversion to the native cult belonging to the character's previous religion
+    [*] Distinct names, lore, adherents, and thematic tenets for all 49 vanilla religions
+    [*] Each native cult combines its parent religion's holy sites with the complete Quintessence network
+    [*] Includes the Cult of the Crimson Ka as the Egyptian-Kushite branch
+    [*] Optional because native faith registration requires complete vanilla religion overlays and can conflict with religion mods
 [/list]
 
 Off for AI by default, but can be enabled via game rule or disabled completely. It is disabled for LOTR/EK2/AGOT but works in PoD. 

@@ -10,7 +10,9 @@ This mod is for you if:
 - You want a way for your character to live forever, without being completely immortal
 - You want your character to gain and level up positive physical traits (intelligent, beautiful, etc) in a way that feels part of the game
 
-**Compatibility**: Uses namespaced content wherever possible. The optional Crimson Ka faith is registered through a complete CK3 1.19 Kushitism religion overlay so that Kushite religion checks from RICE and other mods recognize it correctly.
+**Compatibility**: Uses namespaced content and does not overlay vanilla religion definitions. The
+optional **Blood Mages - Native Religions** submod provides native parent-religion integration for
+players who prefer it and can accept religion-mod conflicts.
 
 ## Overview
 
@@ -27,6 +29,25 @@ The Blood Mage trait features five distinct tracks:
 - **Hematurgy**: Absorb traits and harvest lifeforce
 
 Each track gains experience as you use related abilities, with ten progressive tiers of power. Maxing them all out might take you 100 years, costing tens of thousands of piety, and the benefits reflect that. 
+
+Blood Mages owns a Blood Magic story panel that tracks all five disciplines in
+a compact two-row icon grid, the exact Major and Minor Lifeforce stack counts,
+attunement, and the core
+progression decisions. After those decisions it shows independently
+collapsible, scrollable rosters for the Blood Golems and the Crimson
+Warriors/Champions currently serving at the Blood Mage's court; an empty
+roster collapses to a compact `None` row. Opening the Situations window repairs
+a missing player story when necessary and refreshes the counters and rosters;
+each roster has a small standard refresh button for manual updates. Lifeforce
+and Attunement labels explain their resource and advancement rules on hover.
+
+Compatibility submods can shadow the story definition at its exact virtual path
+to add integration-only features without taking ownership of its lifecycle,
+progression display, or roster implementation. The interactive roster control
+requires a complete CK3 1.19.0.6 overlay of `gui/window_situation_list.gui`
+because the vanilla story-cycle row exposes no additive widget hook. Generic
+scripted-GUI contracts gate and refresh the custom renderer, allowing a later
+compatibility submod to extend it without optional links in Blood Mages.
 
 ## Lifeforce System
 
@@ -57,21 +78,34 @@ Blood Mages can use this Lifeforce to perform various actions:
 - Create Blood Golems, and enhance their traits at the cost of piety
 - Drain congenital traits from prisoners (beauty, intelligence, physique, giant, fecund)
 
-## The Cult of Blood
+## The Cult of Quintessence
 
-Blood Mages can follow their own unique faith, the Cult of Blood:
+Blood Mages can follow their own unique religion, the Cult of Quintessence:
 
 - **Holy Sites**: Almost 50 locations across Europe
 - **Special Bonuses**: Each site grants +1 to skills, to balance the number of sites
 - **Blood Magic University**: Build special duchy buildings to enhance magical study
 
-### The Cult of the Crimson Ka
+### Automatic syncretism faith selection
 
-Blood Mages with Kushite faith, Egyptian/Nubian cultural ancestry, or a realm capital in the Egypt–Nubia–Sudan heartlands can spend 2,000 Piety to restore an Egyptian–Kushite branch of the cult.
+There is no manual religion-type selector when a character converts. The conversion automatically
+examines the character's previous faith and chooses the matching Cult of Quintessence variant:
+Christian, Islamic, Jewish, Eastern, or Sinitic Syncretism; an Ásatrú-specific traditional faith;
+or a faith for other unreformed traditions. These are standalone faiths within the Cult of
+Quintessence religion, so the main mod does not modify any vanilla religion definitions. If the
+previous faith does not match a supported religious family, the Christian Syncretism variant is
+used as the backwards-compatible fallback.
 
-- It is a true faith of `kushitism_religion`, so Kushite religion and religion-tag requirements recognize it.
-- It keeps the five Kushite holy sites and every active Cult of the Quintessence holy site.
-- Its tenets are Sacred Shadows, Esotericism, and Ancestor Worship, with Equal gender doctrine and Mummification funerals.
+### Optional Native Religions submod
+
+**Blood Mages - Native Religions** moves native integration into a separate compatibility submod.
+It adds one lore-specific Blood Mage cult to every vanilla religion, automatically converts each
+character to the cult belonging to their previous religion, and combines that religion's complete
+holy-site set with the Quintessence network.
+
+The Cult of the Crimson Ka is its Egyptian–Kushite branch. Because CK3 requires complete religion
+overlays to add faiths to existing religions, the submod is intentionally optional while this main
+mod remains free of vanilla religion overrides.
 
 ## Getting Started
 
