@@ -1,0 +1,14 @@
+﻿on_game_start_after_lobby = {
+	on_actions = {
+		bm_initialize_blood_mage_stories
+	}
+}
+
+bm_initialize_blood_mage_stories = {
+	effect = {
+		every_living_character = {
+			limit = { has_trait = lifestyle_blood_mage }
+			bm_ensure_blood_mage_story_effect = yes
+		}
+	}
+}

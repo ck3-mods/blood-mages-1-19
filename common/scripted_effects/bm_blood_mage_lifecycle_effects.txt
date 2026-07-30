@@ -1,0 +1,17 @@
+﻿bm_ensure_blood_mage_story_effect = {
+	if = {
+		limit = {
+			has_trait = lifestyle_blood_mage
+			NOT = { any_owned_story = { story_type = bm_blood_mage_story } }
+		}
+		create_story = bm_blood_mage_story
+	}
+}
+
+bm_become_blood_mage_effect = {
+	if = {
+		limit = { NOT = { has_trait = lifestyle_blood_mage } }
+		add_trait = lifestyle_blood_mage
+	}
+	bm_ensure_blood_mage_story_effect = yes
+}

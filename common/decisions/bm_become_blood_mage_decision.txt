@@ -4,12 +4,10 @@
     decision_group_type = bm_decision_group
 
     is_shown = {
-		faith = {
-			OR = {
-				religion = { is_in_family = rf_quintessence }
-				has_doctrine_parameter = witchcraft_accepted
-			}
-		}
+        OR = {
+            bm_is_blood_cult_faith_trigger = yes
+            faith = { has_doctrine_parameter = witchcraft_accepted }
+        }
         not = { has_trait = lifestyle_blood_mage }
     }
 
@@ -21,7 +19,7 @@
 
     effect = { 
         debug_log = debug_log.blood_mage_log
-        add_trait = lifestyle_blood_mage 
+        bm_become_blood_mage_effect = yes
     }
 
     # Yearly chance that AI become blood mage, if they are blood cultist
@@ -139,7 +137,7 @@ bm_enhance_blood_ritual_decision = {
                 send_interface_toast = {
                     title = bm_enhance_blood_ritual_decision.success_tt
                     left_icon = root
-                    add_trait = lifestyle_blood_mage
+                    bm_become_blood_mage_effect = yes
                 }
             }
 
