@@ -8,8 +8,7 @@
     is_shown = {
         has_trait = lifestyle_blood_mage
         NOR = {
-            faith = faith:bm_crimson_ka_faith
-            faith = { religion = { is_in_family = rf_quintessence } }
+            bm_is_blood_cult_faith_trigger = yes
         }
         # Disable for overhaul mods
         NOT = { is_playing_overhaul_mod = yes }
@@ -32,97 +31,7 @@
     effect = {
         debug_log = debug_log.blood_mage_log
 
-        # Preserve the convert's religious background through the matching
-        # syncretism tenet. Quintessence uses separate faiths because doctrines
-        # belong to a faith, not to individual characters.
-        if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = special_doctrine_is_christian_faith
-                        has_doctrine = tenet_christian_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith
-        }
-        else_if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = special_doctrine_is_islamic_faith
-                        has_doctrine = tenet_islamic_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_islamic
-        }
-        else_if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = special_doctrine_is_jewish_faith
-                        has_doctrine = tenet_jewish_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_jewish
-        }
-        else_if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = special_doctrine_is_eastern_faith
-                        has_doctrine = tenet_eastern_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_eastern
-        }
-        else_if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = special_doctrine_is_sinitic_faith
-                        has_doctrine = tenet_sinitic_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_sinitic
-        }
-        else_if = {
-            limit = {
-                faith = { religion_tag = germanic_religion }
-            }
-            hidden_effect = {
-                faith:quintessence_faith_asatru = {
-                    if = {
-                        limit = {
-                            NOT = { has_doctrine = tenet_mendicant_preachers }
-                        }
-                        add_doctrine = tenet_mendicant_preachers
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_asatru
-        }
-        else_if = {
-            limit = {
-                faith = {
-                    OR = {
-                        has_doctrine = unreformed_faith_doctrine
-                        has_doctrine = west_african_unreformed_faith_doctrine
-                        has_doctrine = tenet_unreformed_syncretism
-                    }
-                }
-            }
-            set_character_faith = faith:quintessence_faith_unreformed
-        }
-        else = {
-            # CK3 has no dedicated syncretism tenet for every religion. Keep
-            # Christian Syncretism as the backwards-compatible fallback.
-            set_character_faith = faith:quintessence_faith
-        }
+        bm_convert_to_blood_cult_by_heritage_effect = yes
     }
 
     # Yearly chance AI take up the religion if they are a blood mage
