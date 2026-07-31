@@ -1,0 +1,8 @@
+﻿bm_quintessence_identity_doctrine = {
+	visible = no
+
+	parameters = {
+		# Other religions may opt in without becoming static dependencies.
+		blood_magic_cult_faith = yes
+	}
+}

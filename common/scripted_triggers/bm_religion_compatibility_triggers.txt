@@ -1,5 +1,8 @@
 ﻿bm_is_blood_cult_faith_trigger = {
 	faith = {
-		religion = { is_in_family = rf_quintessence }
+		OR = {
+			religion = { is_in_family = rf_quintessence }
+			has_doctrine_parameter = blood_magic_cult_faith
+		}
 	}
 }

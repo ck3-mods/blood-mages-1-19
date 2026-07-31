@@ -2,6 +2,7 @@
     family = rf_quintessence
 
     doctrine = abrahamic_hostility_doctrine
+    doctrine = bm_quintessence_identity_doctrine
 
     # pagan_roots = yes
 

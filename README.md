@@ -12,7 +12,9 @@ This mod is for you if:
 
 **Compatibility**: Uses namespaced content and does not overlay vanilla religion definitions. The
 optional **Blood Mages - Native Religions** submod provides native parent-religion integration for
-players who prefer it and can accept religion-mod conflicts.
+players who prefer it and can accept religion-mod conflicts. Other mods can mark a faith as a Blood
+Magic cult with the hidden `blood_magic_cult_faith` doctrine parameter; the provider remains
+optional because Blood Mages does not reference its database identifiers.
 
 ## Overview
 
