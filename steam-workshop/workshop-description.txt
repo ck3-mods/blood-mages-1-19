@@ -64,7 +64,7 @@ The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3774392
 
 [h3]Blood Mages — AGOT Religions[/h3]
 
-The separate [b]Blood Mages — AGOT Religions[/b] companion replaces the vanilla-world cult database with six lore-specific traditions for the Faith of the Seven, Old Gods, Drowned God, R'hllor, Mother Rhoyne, and Valyrian gods. Load it after A Game of Thrones and Blood Mages, then select [b]Blood Mage Lore: A Game of Thrones[/b].
+The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775630683][b]Blood Mages — AGOT Religions[/b][/url] companion replaces the vanilla-world cult database with six lore-specific traditions for the Faith of the Seven, Old Gods, Drowned God, R'hllor, Mother Rhoyne, and Valyrian gods. Load it after A Game of Thrones and Blood Mages, then select [b]Blood Mage Lore: A Game of Thrones[/b].
 
 [h3]Dracul — Vampires & Blood Mages[/h3]
 

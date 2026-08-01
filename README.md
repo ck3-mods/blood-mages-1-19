@@ -17,7 +17,7 @@ Magic cult with the hidden `blood_magic_cult_faith` doctrine parameter; the prov
 optional because Blood Mages does not reference its database identifiers.
 
 Choose **Blood Mage Lore: Historical** for vanilla CK3. For AGOT, load the small optional
-**Blood Mages - AGOT Religions** companion after A Game of Thrones and Blood Mages, then choose
+[**Blood Mages - AGOT Religions**](https://steamcommunity.com/sharedfiles/filedetails/?id=3775630683) companion after A Game of Thrones and Blood Mages, then choose
 **Blood Mage Lore: A Game of Thrones**. The companion swaps out the vanilla-world cult database
 for Westerosi traditions and holy sites without making AGOT a dependency of the main mod.
 
