@@ -3,7 +3,7 @@
   holy_order_knights_of_the_crimson_chalice: "Rycerze Karmazynowego Kielicha"
   holy_order_custodians_of_the_vital_essence: "Strażnicy Esencji Życiowej"
   holy_order_crimson_covenant: "Karmazynowe Przymierze"
-  holy_order_sanguine_disciples: "Optymiści Uczniowie"
+  holy_order_sanguine_disciples: "Krwiści Uczniowie"
   holy_order_crimson_tide: "Karmazynowa Fala"
   holy_order_bloodbound_sentinels: "Związani Krwią Strażnicy"
   holy_order_scarlet_vanguard: "Szkarłatna Straż Przednia"
@@ -29,7 +29,7 @@
   quintessence_faith_islamic_adj: "$quintessence_faith_adj$"
   quintessence_faith_islamic_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_islamic_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_islamic_desc: "Islamscy kwintesencjaliści upierają się, że tylko Allah jest boski, podczas gdy krew to amanah – święty depozyt złożony w każdym żywym ciele. Twierdzą, że prorocy, lekarze i mistycy dostrzegli część jego ukrytego prawa i że poprzez zdyscyplinowane rytuały, post i starannie odmierzone ofiary wierni mogą opanować prąd życiowy, poddając się porządkowi zapisanemu w stworzeniu."
+  quintessence_faith_islamic_desc: "Islamscy kwintesencjaliści upierają się, że tylko Allah jest boski, podczas gdy krew to amanah – święty depozyt złożony w każdym żywym ciele. Twierdzą, że prorocy, lekarze i mistycy dostrzegli część jej ukrytego prawa i że poprzez zdyscyplinowane rytuały, post oraz starannie odmierzone ofiary wierni mogą zapanować nad nurtem życia, poddając się porządkowi wpisanemu w stworzenie."
   quintessence_faith_jewish: "$quintessence_faith$"
   quintessence_faith_jewish_adj: "$quintessence_faith_adj$"
   quintessence_faith_jewish_adherent: "$quintessence_faith_adherent$"
@@ -49,7 +49,7 @@
   quintessence_faith_asatru_adj: "$quintessence_faith_adj$"
   quintessence_faith_asatru_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_asatru_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_asatru_desc: "Kwintesencjaliści Ásatrú odrzucają zagraniczne przystosowania i uznają karmazynowy nurt w mękach Odyna, bojową furię einherjarów i krew przelaną podczas blót. Celowe zabijanie lub śmierć wyzwala władzę w klanie, krainie i bogach; wojna jest sakramentem, ofiara jest wymianą, a Kwintesencja należy do tych, którzy mają dość śmiałości, aby ją wykorzystać."
+  quintessence_faith_asatru_desc: "Kwintesencjaliści Ásatrú odrzucają obce naleciałości i dostrzegają karmazynowy nurt w próbie Odyna, bitewnym szale einherjarów oraz krwi przelanej podczas blót. Zabijanie lub śmierć w określonym celu uwalnia moc dla klanu, ziemi i bogów; wojna jest sakramentem, ofiara wymianą, a Kwintesencja należy do tych, którzy mają dość odwagi, by ją ujarzmić."
   quintessence_faith_unreformed: "$quintessence_faith$"
   quintessence_faith_unreformed_adj: "$quintessence_faith_adj$"
   quintessence_faith_unreformed_adherent: "$quintessence_faith_adherent$"
@@ -109,8 +109,8 @@
   quintessence_fertility_herhis: "Ona"
   quintessence_fertility_herhim: "Ona"
 
-  quintessence_wealth_god_name: "Skarb Krwawych"
-  quintessence_wealth_god_name_possessive: "Skarb Krwawych"
+  quintessence_wealth_god_name: "Krwawy Skarbiec"
+  quintessence_wealth_god_name_possessive: "Krwawego Skarbca"
   quintessence_wealth_god_shehe: "To"
   quintessence_wealth_god_herhis: "Jego"
   quintessence_wealth_god_herhim: "To"
@@ -174,7 +174,7 @@
 
   # Religious Figures
   quintessence_religious_head_title: "Wysoki krwiomocz"
-  quintessence_religious_head_title_name: "Konklawe Krwawych"
+  quintessence_religious_head_title_name: "Krwawe Konklawe"
   quintessence_priest: "Krwotok"
   quintessence_priest_plural: "Hematurgowie"
   quintessence_priest_alternate_plural: "Zaprzysiężony"
@@ -207,23 +207,3 @@
   bm_ghw_great_holy_wars: "Krwawe Krucjaty"
 
   # Legacy compatibility localization
- NOT_convert_to_blood_cult_requirement: "Celem musi być dworzanin, więzień, przyjaciel, członek rodziny lub kochanek. Alternatywnie możesz użyć haka, aby ich zmusić. Wędrowcy mogą również nawracać swoich patronów." #deepl:2146092671
- convert_to_blood_cult: "Konwersja do kultu krwi" #deepl:3622748983
- convert_to_blood_cult.fail: "Zawodzę" #deepl:2247084496
- convert_to_blood_cult.fail.toast: "[recipient.GetShortUINameNoTooltip] nie został przekonwertowany" #deepl:4143971531
- convert_to_blood_cult.success: "Z powodzeniem indoktrynuję ich do Kultu Krwi" #deepl:3575682498
- convert_to_blood_cult.success.toast: "[recipient.GetShortUINameNoTooltip] został pomyślnie przekonwertowany" #deepl:722368129
- convert_to_blood_cult_event_interaction: "Konwersja do kultu krwi" #deepl:3622748983
- convert_to_blood_cult_event_interaction.recipient.notification.tt: "Użyjesz swojej Magii Krwi, by nawrócić [recipient.GetShortUINameNoTooltip] na religię Kultu Krwi." #deepl:1193557619
- convert_to_blood_cult_extra_icon: "Użyj haka, aby je przekonwertować" #deepl:3286317629
- convert_to_blood_cult_requirement: "Celem musi być dworzanin, więzień, przyjaciel, członek rodziny lub kochanek. Alternatywnie możesz użyć haka, aby ich zmusić. Wędrowcy mogą również nawracać swoich patronów." #deepl:2146092671
- cult_of_blood: "Kult Krwi" #deepl:212164960
- cult_of_blood_adherent: "Kultysta krwi" #deepl:2508460524
- cult_of_blood_adherent_plural: "Kultyści krwi" #deepl:3405063345
- cult_of_blood_adj: "Kultysta krwi" #deepl:2508460524
- cult_of_blood_desc: "Kult Krwi praktykuje starożytną i zakazaną formę magii, która wykorzystuje esencję życiową żywych istot. Wyznawcy wierzą, że krew jest ostateczną walutą mocy - zawierającą wspomnienia, cechy i samo życie. Poprzez rytuały poświęcenia i komunii, kultyści krwi przedłużają swoje życie, absorbują cechy od innych i manipulują rzeczywistością poprzez starannie kultywowaną siłę życiową. Ich wiara opiera się na świętych miejscach rozrzuconych po całej Europie, z których każde służy jako węzeł mocy tajemnej. Choć konwencjonalne religie uważają ich za odrażających heretyków, Kultyści Krwi postrzegają siebie jako wykraczających poza śmiertelne ograniczenia, podążających ścieżką nieśmiertelności poprzez karmazynowe sztuki, których konwencjonalne religie nie ośmielają się uznać." #deepl:465797134
- cult_of_blood_religion: "Kultysta krwi" #deepl:2508460524
- cult_of_blood_religion_adherent: "Kultysta krwi" #deepl:2508460524
- cult_of_blood_religion_adherent_plural: "Kultyści krwi" #deepl:3405063345
- cult_of_blood_religion_adj: "Kultysta krwi" #deepl:2508460524
- cult_of_blood_religion_desc: "Kultysta krwi" #deepl:2508460524

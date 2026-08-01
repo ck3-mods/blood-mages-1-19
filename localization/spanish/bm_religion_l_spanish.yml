@@ -24,7 +24,7 @@
   quintessence_faith_adj: "quintaesencialista"
   quintessence_faith_adherent: "quintaesencialista"
   quintessence_faith_adherent_plural: "quintaesencialistas"
-  quintessence_faith_desc: "Los cristianos por excelencia proclaman que la sangre derramada en el Calvario reveló un misterio más profundo: la vida misma es una corriente sagrada que puede ser derramada, recibida y dominada. Interpretan la Pasión, los mártires y la Eucaristía a través de una teología carmesí prohibida, enseñando que cada latido del corazón hace eco del sacrificio de Cristo y que quienes comprenden el misterio de la sangre pueden superar la fragilidad de la carne mortal."
+  quintessence_faith_desc: "Los quintaesencialistas cristianos proclaman que la sangre derramada en el Calvario reveló un misterio más profundo: la vida misma es una corriente sagrada que puede verterse, recibirse y dominarse. Interpretan la Pasión, los mártires y la Eucaristía mediante una teología carmesí prohibida, y enseñan que cada latido hace eco del sacrificio de Cristo y que quienes comprenden el misterio de la sangre pueden superar la fragilidad de la carne mortal."
   quintessence_faith_islamic: "$quintessence_faith$"
   quintessence_faith_islamic_adj: "$quintessence_faith_adj$"
   quintessence_faith_islamic_adherent: "$quintessence_faith_adherent$"
@@ -44,12 +44,12 @@
   quintessence_faith_sinitic_adj: "$quintessence_faith_adj$"
   quintessence_faith_sinitic_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_sinitic_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_sinitic_desc: "Los quintoesencialistas siníticos sostienen que la sangre es el vaso más denso de qi, heredado de los antepasados y ordenado bajo el cielo. Al trazar los meridianos del cuerpo, honrar a los muertos y equilibrar el sacrificio con la armonía, buscan refinar la esencia heredada en lugar de desperdiciarla. Se dice que una circulación perfeccionada une cuerpo, linaje y cosmos en un único orden carmesí."
+  quintessence_faith_sinitic_desc: "Los quintaesencialistas siníticos sostienen que la sangre es el recipiente más denso del qi, heredado de los antepasados y ordenado bajo el Cielo. Al recorrer los meridianos del cuerpo, honrar a los muertos y equilibrar sacrificio y armonía, buscan refinar la esencia heredada en vez de desperdiciarla. Se dice que una circulación perfecta une cuerpo, linaje y cosmos en un único orden carmesí."
   quintessence_faith_asatru: "$quintessence_faith$"
   quintessence_faith_asatru_adj: "$quintessence_faith_adj$"
   quintessence_faith_asatru_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_asatru_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_asatru_desc: "Los quintaesencialistas de Ásatrú rechazan los alojamientos extranjeros y reconocen la corriente carmesí en la terrible experiencia de Odín, la furia de batalla del einherjar y la sangre derramada en el blót. Matar o morir con un propósito libera poder al clan, la tierra y los dioses; la guerra es sacramento, el sacrificio es intercambio y la Quintaesencia pertenece a aquellos lo suficientemente audaces como para aprovecharla."
+  quintessence_faith_asatru_desc: "Los quintaesencialistas de Ásatrú rechazan las concesiones extranjeras y reconocen la corriente carmesí en la prueba de Odín, la furia guerrera de los einherjar y la sangre derramada en el blót. Matar o morir con un propósito libera poder para el clan, la tierra y los dioses; la guerra es sacramento, el sacrificio es intercambio y la Quintaesencia pertenece a quienes tienen la audacia necesaria para dominarla."
   quintessence_faith_unreformed: "$quintessence_faith$"
   quintessence_faith_unreformed_adj: "$quintessence_faith_adj$"
   quintessence_faith_unreformed_adherent: "$quintessence_faith_adherent$"
@@ -110,7 +110,7 @@
   quintessence_fertility_herhim: "ella"
 
   quintessence_wealth_god_name: "El tesoro sanguíneo"
-  quintessence_wealth_god_name_possessive: "El tesoro sanguinario"
+  quintessence_wealth_god_name_possessive: "Del tesoro sanguíneo"
   quintessence_wealth_god_shehe: "eso"
   quintessence_wealth_god_herhis: "su"
   quintessence_wealth_god_herhim: "eso"
@@ -207,23 +207,3 @@
   bm_ghw_great_holy_wars: "Las cruzadas de sangre"
 
   # Legacy compatibility localization
- NOT_convert_to_blood_cult_requirement: "El objetivo debe ser tu cortesano, prisionero, amigo, familiar o amante. También puedes utilizar un gancho para obligarlos. Los vagabundos también pueden convertir a sus mecenas." #deepl:2146092671
- convert_to_blood_cult: "Convertirse al Culto de Sangre" #deepl:3622748983
- convert_to_blood_cult.fail: "Fallo" #deepl:2247084496
- convert_to_blood_cult.fail.toast: "[recipient.GetShortUINameNoTooltip] no se convirtió" #deepl:4143971531
- convert_to_blood_cult.success: "Los adoctrino con éxito en el Culto de Sangre..." #deepl:3575682498
- convert_to_blood_cult.success.toast: "[recipient.GetShortUINameNoTooltip] se convirtió con éxito" #deepl:722368129
- convert_to_blood_cult_event_interaction: "Convertirse al Culto de Sangre" #deepl:3622748983
- convert_to_blood_cult_event_interaction.recipient.notification.tt: "Usarás tu Magia de Sangre para intentar convertir [recipient.GetShortUINameNoTooltip] a la religión del Culto de Sangre." #deepl:1193557619
- convert_to_blood_cult_extra_icon: "Utiliza el gancho para convertirlos" #deepl:3286317629
- convert_to_blood_cult_requirement: "El objetivo debe ser tu cortesano, prisionero, amigo, familiar o amante. También puedes utilizar un gancho para obligarlos. Los vagabundos también pueden convertir a sus mecenas." #deepl:2146092671
- cult_of_blood: "Culto a la sangre" #deepl:212164960
- cult_of_blood_adherent: "Cultista de la sangre" #deepl:2508460524
- cult_of_blood_adherent_plural: "Cultistas de la sangre" #deepl:3405063345
- cult_of_blood_adj: "Cultista de la sangre" #deepl:2508460524
- cult_of_blood_desc: "El Culto de la Sangre practica una antigua y prohibida forma de magia que aprovecha la esencia vital de los seres vivos. Sus adeptos creen que la sangre es la moneda definitiva del poder: contiene recuerdos, rasgos y la vida misma. Mediante rituales de sacrificio y comunión, los Cultistas de la Sangre prolongan su vida, absorben rasgos de otros y manipulan la realidad a través de una fuerza vital cuidadosamente cultivada. Su fe se estructura en torno a lugares sagrados repartidos por toda Europa, cada uno de los cuales sirve de nexo para el poder arcano. Aunque son vilipendiados por las religiones convencionales como herejes abominables, los Cultistas de la Sangre se ven a sí mismos como seres que trascienden las limitaciones mortales, persiguiendo un camino hacia la inmortalidad a través de las artes carmesíes que las fes convencionales no se atreven a reconocer." #deepl:465797134
- cult_of_blood_religion: "Cultista de la sangre" #deepl:2508460524
- cult_of_blood_religion_adherent: "Cultista de la sangre" #deepl:2508460524
- cult_of_blood_religion_adherent_plural: "Cultistas de la sangre" #deepl:3405063345
- cult_of_blood_religion_adj: "Cultista de la sangre" #deepl:2508460524
- cult_of_blood_religion_desc: "Cultista de la sangre" #deepl:2508460524

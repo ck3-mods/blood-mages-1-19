@@ -2,9 +2,9 @@
   # Men at arms
   holy_order_knights_of_the_crimson_chalice: "Ritter des Purpurkelchs"
   holy_order_custodians_of_the_vital_essence: "Hüter der lebenswichtigen Essenz"
-  holy_order_crimson_covenant: "Karmesinrot Covenant"
-  holy_order_sanguine_disciples: "Sanguinische Jünger"
-  holy_order_crimson_tide: "Karmesinrot Tide"
+  holy_order_crimson_covenant: "Karmesinroter Bund"
+  holy_order_sanguine_disciples: "Jünger des Blutes"
+  holy_order_crimson_tide: "Karmesinrote Flut"
   holy_order_bloodbound_sentinels: "Blutgebundene Wächter"
   holy_order_scarlet_vanguard: "Scharlachrote Vorhut"
 
@@ -16,9 +16,9 @@
   # Core Terms - Religion
   quintessence_religion: "Kult der Quintessenz"
   quintessence_religion_adj: "Quintessenz"
-  quintessence_religion_adherent: "Quintessentialist"
-  quintessence_religion_adherent_plural: "Quintessentialisten"
-  quintessence_religion_desc: "Der Kult der Quintessenz betrachtet die ursprüngliche Lebenskraft, die alle Wesen durchströmt, nicht als göttlich, sondern als die ultimative Währung der Macht. Durch verbotene Blutrituale und kalkulierte Opfer extrahieren, manipulieren und nutzen Anhänger diese Essenz, um die Grenzen der Sterblichkeit zu überwinden. Im Gegensatz zu herkömmlichen Glaubensrichtungen, die Gottheiten verehren, betrachten sich Quintessentialisten als Möchtegern-Herrscher über das grundlegende Substrat der Existenz."
+  quintessence_religion_adherent: "Quintessenzialist"
+  quintessence_religion_adherent_plural: "Quintessenzialisten"
+  quintessence_religion_desc: "Der Kult der Quintessenz betrachtet die ursprüngliche Lebenskraft, die alle Wesen durchströmt, nicht als göttlich, sondern als die höchste Quelle der Macht. Durch verbotene Blutrituale und wohlbedachte Opfer gewinnen, formen und nutzen seine Anhänger diese Essenz, um die Grenzen der Sterblichkeit zu überwinden. Anders als herkömmliche Glaubensrichtungen, die Gottheiten verehren, sehen sich Quintessenzialisten als künftige Gebieter über den Urstoff der Existenz."
   # Core Terms - Faith
   quintessence_faith: "Kult der Quintessenz"
   quintessence_faith_adj: "Quintessenz"
@@ -29,12 +29,12 @@
   quintessence_faith_islamic_adj: "$quintessence_faith_adj$"
   quintessence_faith_islamic_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_islamic_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_islamic_desc: "Islamische Quintessentialisten bestehen darauf, dass allein Allah göttlich ist, während Blut ein amanah ist – ein heiliges Vertrauen, das in jeden lebenden Körper gelegt wird. Sie behaupten, dass Propheten, Ärzte und Mystiker jeweils einen Teil des verborgenen Gesetzes erblickten und dass die Gläubigen durch disziplinierte Riten, Fasten und sorgfältig bemessene Opfer den Lebensstrom meistern und sich gleichzeitig der in die Schöpfung eingeschriebenen Ordnung unterwerfen könnten."
+  quintessence_faith_islamic_desc: "Islamische Quintessenzialisten bestehen darauf, dass allein Allah göttlich ist, während das Blut eine Amanah darstellt – ein heiliges Gut, das jedem lebenden Körper anvertraut wurde. Sie behaupten, Propheten, Ärzte und Mystiker hätten jeweils einen Teil seines verborgenen Gesetzes erkannt. Durch disziplinierte Riten, Fasten und sorgfältig bemessene Opfer könnten die Gläubigen den Lebensstrom meistern und sich zugleich der in die Schöpfung eingeschriebenen Ordnung unterwerfen."
   quintessence_faith_jewish: "$quintessence_faith$"
   quintessence_faith_jewish_adj: "$quintessence_faith_adj$"
   quintessence_faith_jewish_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_jewish_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_jewish_desc: "Jüdische Quintessentialisten beginnen mit der alten Lehre, dass das Leben des Fleisches im Blut liegt. Sie betrachten den Bund, die Beschneidung und die Erinnerung an das Tempelopfer als Fragmente einer verborgenen Disziplin und sind der Ansicht, dass Blut sowohl das Erbe von Generationen als auch die Verpflichtungen in sich trägt, die ein Volk zusammenhalten. Dieses Erbe zu befehlen bedeutet in ihren Augen, den tiefsten Strom der Schöpfung zu berühren."
+  quintessence_faith_jewish_desc: "Jüdische Quintessenzialisten folgen der alten Lehre, dass das Leben des Fleisches im Blut liegt. Sie betrachten den Bund, die Beschneidung und die Erinnerung an das Tempelopfer als Fragmente einer verborgenen Disziplin und sind der Ansicht, dass Blut sowohl das Erbe der Generationen als auch die Verpflichtungen in sich trägt, die ein Volk verbinden. Über dieses Erbe zu gebieten bedeutet in ihren Augen, den tiefsten Strom der Schöpfung zu berühren."
   quintessence_faith_eastern: "$quintessence_faith$"
   quintessence_faith_eastern_adj: "$quintessence_faith_adj$"
   quintessence_faith_eastern_adherent: "$quintessence_faith_adherent$"
@@ -49,7 +49,7 @@
   quintessence_faith_asatru_adj: "$quintessence_faith_adj$"
   quintessence_faith_asatru_adherent: "$quintessence_faith_adherent$"
   quintessence_faith_asatru_adherent_plural: "$quintessence_faith_adherent_plural$"
-  quintessence_faith_asatru_desc: "Ásatrú-Quintessentialisten lehnen ausländische Anpassungen ab und erkennen die purpurrote Strömung in Odins Tortur, die Kampfwut der Einherjar und das Blut, das am blót vergossen wurde. Mit Absicht zu töten oder zu sterben gibt Macht an Clan, Land und Götter frei; Krieg ist Sakrament, Opfer ist Tausch, und die Quintessenz gehört denen, die mutig genug sind, sie zu ergreifen."
+  quintessence_faith_asatru_desc: "Ásatrú-Quintessenzialisten lehnen fremde Zugeständnisse ab und erkennen den karmesinroten Strom in Odins Prüfung, der Kampfwut der Einherjar und dem beim Blót vergossenen Blut. Wer mit einem Ziel tötet oder stirbt, setzt Macht für Sippe, Land und Götter frei; Krieg ist Sakrament, Opfer ist Tausch, und die Quintessenz gehört denen, die kühn genug sind, sie zu ergreifen."
   quintessence_faith_unreformed: "$quintessence_faith$"
   quintessence_faith_unreformed_adj: "$quintessence_faith_adj$"
   quintessence_faith_unreformed_adherent: "$quintessence_faith_adherent$"
@@ -109,8 +109,8 @@
   quintessence_fertility_herhis: "Sie"
   quintessence_fertility_herhim: "Sie"
 
-  quintessence_wealth_god_name: "Der Sanguinische Hort"
-  quintessence_wealth_god_name_possessive: "Der Sanguine Hort"
+  quintessence_wealth_god_name: "Der Blutrote Hort"
+  quintessence_wealth_god_name_possessive: "Des Blutroten Horts"
   quintessence_wealth_god_shehe: "Es"
   quintessence_wealth_god_herhis: "Es ist"
   quintessence_wealth_god_herhim: "Es"
@@ -140,7 +140,7 @@
   quintessence_war_god_herhim: "Ihn"
 
   quintessence_trickster_name: "Der purpurne Schatten"
-  quintessence_trickster_name_possessive: "Die Karmesinrot Shadows"
+  quintessence_trickster_name_possessive: "Des Karmesinroten Schattens"
   quintessence_trickster_shehe: "Er"
   quintessence_trickster_herhis: "Sein"
   quintessence_trickster_herhim: "Ihn"
@@ -159,7 +159,7 @@
 
   # Example Deities/Figures
   quintessence_good_god_lifeforce: "Der Vitalitätssiphon"
-  quintessence_good_god_blood: "Die Karmesinrot Tide"
+  quintessence_good_god_blood: "Die Karmesinrote Flut"
   quintessence_devil_name: "Der gerinnende Abgrund"
   quintessence_devil_name_possessive: "Der gerinnende Abgrund"
   quintessence_devil_himself: "Selbst"
@@ -174,7 +174,7 @@
 
   # Religious Figures
   quintessence_religious_head_title: "Hoher Hämaturge"
-  quintessence_religious_head_title_name: "Das Sanguinische Konklave"
+  quintessence_religious_head_title_name: "Das Blutrote Konklave"
   quintessence_priest: "Hämaturge"
   quintessence_priest_plural: "Hämaturgen"
   quintessence_priest_alternate_plural: "Blutgeschworen"
@@ -207,23 +207,3 @@
   bm_ghw_great_holy_wars: "Die Blutkreuzzüge"
 
   # Legacy compatibility localization
- NOT_convert_to_blood_cult_requirement: "Das Ziel muss Ihr Höfling, Gefangener, Freund, Familienmitglied oder Liebhaber sein. Alternativ kannst du auch einen Haken verwenden, um sie zu manipulieren. Wanderer können auch ihre Gönner bekehren." #deepl:2146092671
- convert_to_blood_cult: "Zum Blutkult konvertieren" #deepl:3622748983
- convert_to_blood_cult.fail: "Ich scheitere" #deepl:2247084496
- convert_to_blood_cult.fail.toast: "[recipient.GetShortUINameNoTooltip] wurde nicht umgewandelt" #deepl:4143971531
- convert_to_blood_cult.success: "Ich indoktriniere sie erfolgreich für den Blutkult" #deepl:3575682498
- convert_to_blood_cult.success.toast: "[recipient.GetShortUINameNoTooltip] wurde erfolgreich konvertiert" #deepl:722368129
- convert_to_blood_cult_event_interaction: "Zum Blutkult konvertieren" #deepl:3622748983
- convert_to_blood_cult_event_interaction.recipient.notification.tt: "Du wirst deine Blutmagie einsetzen, um [recipient.GetShortUINameNoTooltip] zum Blutkult zu bekehren." #deepl:1193557619
- convert_to_blood_cult_extra_icon: "Haken verwenden, um sie zu konvertieren" #deepl:3286317629
- convert_to_blood_cult_requirement: "Das Ziel muss Ihr Höfling, Gefangener, Freund, Familienmitglied oder Liebhaber sein. Alternativ kannst du auch einen Haken verwenden, um sie zu manipulieren. Wanderer können auch ihre Gönner bekehren." #deepl:2146092671
- cult_of_blood: "Blutkult" #deepl:212164960
- cult_of_blood_adherent: "Blutkultist" #deepl:2508460524
- cult_of_blood_adherent_plural: "Blutkultisten" #deepl:3405063345
- cult_of_blood_adj: "Blutkultist" #deepl:2508460524
- cult_of_blood_desc: "Der Blutkult praktiziert eine uralte und verbotene Form der Magie, die sich die Lebensessenz von Lebewesen zunutze macht. Die Anhänger glauben, dass Blut die ultimative Währung der Macht ist - es enthält Erinnerungen, Eigenschaften und das Leben selbst. Durch Opfer- und Gemeinschaftsrituale verlängern Blutkultisten ihr Leben, absorbieren Eigenschaften von anderen und manipulieren die Realität durch sorgfältig kultivierte Lebenskraft. Ihr Glaube stützt sich auf heilige Stätten, die über ganz Europa verstreut sind und jeweils als Knotenpunkt für arkane Macht dienen. Während sie von den konventionellen Religionen als abscheuliche Ketzer geschmäht werden, sehen sich die Blutkultisten als Überwinder der sterblichen Begrenzungen und verfolgen einen Weg zur Unsterblichkeit durch die purpurnen Künste, den die konventionellen Religionen nicht anzuerkennen wagen." #deepl:465797134
- cult_of_blood_religion: "Blutkultist" #deepl:2508460524
- cult_of_blood_religion_adherent: "Blutkultist" #deepl:2508460524
- cult_of_blood_religion_adherent_plural: "Blutkultisten" #deepl:3405063345
- cult_of_blood_religion_adj: "Blutkultist" #deepl:2508460524
- cult_of_blood_religion_desc: "Blutkultist" #deepl:2508460524

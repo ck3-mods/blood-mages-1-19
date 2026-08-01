@@ -1,4 +1,6 @@
 ﻿l_korean:
+ bm_blood_mage_story:0 "피의 마법"
+ bm_blood_mage_story_desc:0 "당신의 피는 마도서이자 도가니입니다. 의식을 거듭할 때마다 진홍빛 기예의 한 분야가 더욱 깊어집니다."
  BM_BLOOD_MAGE_INFORMATION_STRING:0 "$BM_BLOOD_MAGE_DISCIPLINE_GRID$\n[GetPlayer.Custom('BM_BLOOD_MAGE_LIFEFORCE_DISPLAY')]\n[GetPlayer.Custom('BM_BLOOD_MAGE_ATTUNEMENT_DISPLAY')]\n\n#help 각 분야는 경험치 100에서 숙련에 도달합니다. 분야 위에 마우스를 올리면 성장 규칙을 확인할 수 있습니다.#!"
  BM_BLOOD_MAGE_DISCIPLINE_GRID:0 "#size:15 #tooltip:trait_track_ancient_desc @bm_ancient_discipline_icon! $trait_track_ancient$#!: #V [GetPlayer.MakeScope.ScriptValue('bm_blood_mage_ancient_xp_value')|0]/100#!   #tooltip:trait_track_enlightenment_desc @bm_enlightenment_discipline_icon! $trait_track_enlightenment$#!: #V [GetPlayer.MakeScope.ScriptValue('bm_blood_mage_enlightenment_xp_value')|0]/100#!   #tooltip:trait_track_bloodline_desc @bm_bloodline_discipline_icon! $trait_track_bloodline$#!: #V [GetPlayer.MakeScope.ScriptValue('bm_blood_mage_bloodline_xp_value')|0]/100#!\n#tooltip:trait_track_benediction_desc @bm_benediction_discipline_icon! $trait_track_benediction$#!: #V [GetPlayer.MakeScope.ScriptValue('bm_blood_mage_benediction_xp_value')|0]/100#!   #tooltip:trait_track_hematurgy_desc @bm_hematurgy_discipline_icon! $trait_track_hematurgy$#!: #V [GetPlayer.MakeScope.ScriptValue('bm_blood_mage_hematurgy_xp_value')|0]/100#!#!"
  BM_OWNED_BLOOD_GOLEMS:0 "혈액 골렘"
