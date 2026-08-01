@@ -58,9 +58,9 @@ All seven variants remain standalone faiths within the Cult of Quintessence, so 
 
 [h2]Optional Submods[/h2]
 
-[h3]Blood Mages — Native Religions[/h3]
+[h3]Blood Mages — Vanilla Religions[/h3]
 
-The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3774392244][b]Blood Mages — Native Religions[/b][/url] compatibility submod adds one lore-specific Blood Mage cult to every vanilla religion, including the Egyptian–Kushite Cult of the Crimson Ka. Each native cult inherits its parent religion and combines that religion's holy sites with the complete Quintessence network.
+The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3774392244][b]Blood Mages — Vanilla Religions[/b][/url] compatibility submod adds one lore-specific Blood Mage cult to every vanilla religion, including the Egyptian–Kushite Cult of the Crimson Ka. Each native cult inherits its parent religion and combines that religion's holy sites with the complete Quintessence network.
 
 [h3]Blood Mages — AGOT Religions[/h3]
 
@@ -72,7 +72,7 @@ The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775630
 
 [h2]Compatibility[/h2]
 
-The main mod does not overwrite vanilla religion definitions and should therefore remain compatible with most other mods, including major total conversions. Use Native Religions for vanilla-world campaigns or the dedicated AGOT Religions companion for A Game of Thrones; do not load both religion companions together.
+The main mod does not overwrite vanilla religion definitions and should therefore remain compatible with most other mods, including major total conversions. Use Vanilla Religions for vanilla-world campaigns or the dedicated AGOT Religions companion for A Game of Thrones; do not load both religion companions together.
 
 [h2]Credits[/h2]
 

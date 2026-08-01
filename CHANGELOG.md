@@ -7,7 +7,7 @@
 * Renamed the religion game rule to remain accurate with optional native faith integrations, expanded the Cult of the Quintessence religion-family description, and refreshed religion localization across all supported languages.
 * Added a hidden Blood Magic identity doctrine and taught cult eligibility to recognize the shared `blood_magic_cult_faith` parameter, allowing optional religion integrations without static dependencies.
 * Retained all seven standalone Cult of Quintessence heritage faiths and added automatic conversion routing for Christian, Islamic, Jewish, Eastern, Sinitic, Ásatrú, and other unreformed origins, with a documented Christian Syncretism fallback.
-* Moved native-religion integration, including the Cult of the Crimson Ka, into the optional Blood Mages - Native Religions submod so the main mod no longer overlays vanilla religions.
+* Moved native-religion integration, including the Cult of the Crimson Ka, into the optional Blood Mages - Vanilla Religions submod so the main mod no longer overlays vanilla religions.
 * Moved the Blood Magic story panel, progression display, and lifecycle initialization into Blood Mages so compatibility submods only extend the base-owned panel.
 * Added exact Major/Minor Lifeforce stack counts and independently collapsible, scrollable Blood Golem and Crimson retinue rosters after the Blood Magic decisions, with compact empty states, atomic story creation across every Blood Mage acquisition path, missing-story reconciliation when Situations opens, automatic refresh, and a compact standard refresh control on each roster.
 * Added inline mechanic tooltips to the Lifeforce and Attunement status lines.

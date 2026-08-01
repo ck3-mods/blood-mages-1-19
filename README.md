@@ -11,7 +11,7 @@ This mod is for you if:
 - You want your character to gain and level up positive physical traits (intelligent, beautiful, etc) in a way that feels part of the game
 
 **Compatibility**: Uses namespaced content and does not overlay vanilla religion definitions. The
-optional **Blood Mages - Native Religions** submod provides native parent-religion integration for
+optional **Blood Mages - Vanilla Religions** submod provides native parent-religion integration for
 players who prefer it and can accept religion-mod conflicts. Other mods can mark a faith as a Blood
 Magic cult with the hidden `blood_magic_cult_faith` doctrine parameter; the provider remains
 optional because Blood Mages does not reference its database identifiers.
@@ -103,9 +103,9 @@ Quintessence religion, so the main mod does not modify any vanilla religion defi
 previous faith does not match a supported religious family, the Christian Syncretism variant is
 used as the backwards-compatible fallback.
 
-### Optional Native Religions submod
+### Optional Vanilla Religions submod
 
-**Blood Mages - Native Religions** moves native integration into a separate compatibility submod.
+**Blood Mages - Vanilla Religions** moves native integration into a separate compatibility submod.
 It adds one lore-specific Blood Mage cult to every vanilla religion, automatically converts each
 character to the cult belonging to their previous religion, and combines that religion's complete
 holy-site set with the Quintessence network.

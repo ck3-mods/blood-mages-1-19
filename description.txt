@@ -74,8 +74,8 @@ Blood Mages can follow their own unique faith, The Cult of Quintessence: https:/
     [*] The [b]Blood Mage Religion[/b] game rule can enable the embrace-faith decision for everyone, restrict it to players, or disable it entirely
 [/list]
 
-[h1]Optional Native Religions Submod[/h1]
-The separate [b]Blood Mages - Native Religions[/b] compatibility submod places a distinct, lore-specific Blood Mage cult inside every vanilla religion.
+[h1]Optional Vanilla Religions Submod[/h1]
+The separate [b]Blood Mages - Vanilla Religions[/b] compatibility submod places a distinct, lore-specific Blood Mage cult inside every vanilla religion.
 [list]
     [*] Automatic conversion to the native cult belonging to the character's previous religion
     [*] Distinct names, lore, adherents, and thematic tenets for all 49 vanilla religions
