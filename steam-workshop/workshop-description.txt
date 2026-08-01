@@ -34,9 +34,11 @@ A Blood Mage's mastery now visibly transforms them, from subtly reddened eyes to
 
 A dedicated panel brings together all five mastery tracks, exact Major and Minor Lifeforce counts, attunement, core decisions, and collapsible rosters for Blood Golems and Crimson Warriors or Champions.
 
-[h3]Religion Rule and Localization[/h3]
+[h3]Lore, Religion Rules, and Localization[/h3]
 
-The [b]Blood Mage Religion[/b] game rule can enable the decision for everyone, restrict it to players, or disable it entirely. Cult of Quintessence religion text has also been expanded and refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
+The dedicated [b]Blood Mages[/b] game-rule category includes [b]Blood Mage Lore[/b] for choosing the historical or AGOT religion set, plus [b]Blood Mage Religion[/b] for enabling the conversion decision for everyone, restricting it to players, or disabling it entirely. Cult of Quintessence religion text has also been expanded and refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
+
+English is the original text. Simplified Chinese is predominantly community-translated and Russian is community-translated. French contains both reviewed and machine-translated text; German, Korean, Polish, and Spanish are machine translated. Clear errors have been corrected, but machine-translated text may still contain mistakes or awkward phrasing.
 
 [h3]Automatic Syncretism Faith Selection[/h3]
 
@@ -60,13 +62,17 @@ All seven variants remain standalone faiths within the Cult of Quintessence, so 
 
 The separate [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3774392244][b]Blood Mages — Native Religions[/b][/url] compatibility submod adds one lore-specific Blood Mage cult to every vanilla religion, including the Egyptian–Kushite Cult of the Crimson Ka. Each native cult inherits its parent religion and combines that religion's holy sites with the complete Quintessence network.
 
+[h3]Blood Mages — AGOT Religions[/h3]
+
+The separate [b]Blood Mages — AGOT Religions[/b] companion replaces the vanilla-world cult database with six lore-specific traditions for the Faith of the Seven, Old Gods, Drowned God, R'hllor, Mother Rhoyne, and Valyrian gods. Load it after A Game of Thrones and Blood Mages, then select [b]Blood Mage Lore: A Game of Thrones[/b].
+
 [h3]Dracul — Vampires & Blood Mages[/h3]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3765753769][b]Dracul — Vampires & Blood Mages[/b][/url] makes both supernatural systems recognize and prey on one another, adds Dracula-themed military gameplay, and opens a path from secret vampire rule to an openly vampiric faith.
 
 [h2]Compatibility[/h2]
 
-The main mod does not overwrite vanilla religion definitions and should therefore remain compatible with most other mods, including major total conversions. The optional Native Religions submod uses complete religion overlays and should be disabled when another mod edits vanilla religions.
+The main mod does not overwrite vanilla religion definitions and should therefore remain compatible with most other mods, including major total conversions. Use Native Religions for vanilla-world campaigns or the dedicated AGOT Religions companion for A Game of Thrones; do not load both religion companions together.
 
 [h2]Credits[/h2]
 

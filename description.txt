@@ -84,7 +84,7 @@ The separate [b]Blood Mages - Native Religions[/b] compatibility submod places a
     [*] Optional because native faith registration requires complete vanilla religion overlays and can conflict with religion mods
 [/list]
 
-The main mod's Cult of Quintessence religion text and game-rule descriptions are refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
+The main mod's Cult of Quintessence religion text and game-rule descriptions are refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish. Translation coverage outside those areas varies by language; see the localization notes below.
 
 [h1]Getting Started[/h1]
 There are various ways to gain the Blood Mage trait
@@ -112,15 +112,18 @@ Feel free to use all the code for your own work. If you do, then please give me 
 
 [h1]Language localizations[/h1]
 [list]
-    [*] [b]Chinese[/b]: done by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3403925213]  牛奶大魔王 and this mod [/url]. See also  See pinned discussion for translation of the mod page. Some missing localizations were translated with pdx-deepl, but most are done by hand
-    [*] [b]Russian[/b]: Done by [url=https://github.com/im-mortal] im-mortal on github [/url]
-    [*] [b]French[/b]: Done with pdx-deepl for now, but [url=https://steamcommunity.com/profiles/76561198142232656] WIP by TesaVonAtti [/url]  
-    [*] [b]Spanish/German/Polish/Korean[/b]: Machine translation, using pdx-deepl
+    [*] [b]English[/b]: original text
+    [*] [b]Simplified Chinese[/b]: predominantly translated by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3403925213]牛奶大魔王 and this mod[/url], with some gaps filled by machine translation; see the pinned discussion for a translation of the mod page
+    [*] [b]Russian[/b]: community translation by [url=https://github.com/im-mortal]im-mortal on GitHub[/url]
+    [*] [b]French[/b]: currently a mixture of reviewed text and machine translation, with a human revision in progress by [url=https://steamcommunity.com/profiles/76561198142232656]TesaVonAtti[/url]
+    [*] [b]German, Korean, Polish, and Spanish[/b]: machine translated with pdx-deepl and subsequently corrected where clear errors were found
 [/list]
+
+Machine-translated text may still contain errors or awkward phrasing. Native-speaker corrections are welcome.
 
 If you want to help with translations, please let me know! Easiest way is to fork the repo and send me a pull request on github. Or just send me a message and I can add the translation in.
 
-Machine translations done by pdx-deepl tool: https://github.com/kaiser-chris/pdx-deepl
+Machine translations use the pdx-deepl tool: https://github.com/kaiser-chris/pdx-deepl
 
 [h1]Like the mod?[/h1]
 Consider buying me a coffee to support my work 😀

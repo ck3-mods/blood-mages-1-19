@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+* Added a dedicated, icon-backed Blood Mages game-rule category and a Blood Mage Lore rule with Historical and A Game of Thrones settings for the optional AGOT religion companion.
+* Corrected mistranslated religious terminology, dynamic substitutions, and duplicated legacy text across the supported non-English localizations.
 * Renamed the religion game rule to remain accurate with optional native faith integrations, expanded the Cult of the Quintessence religion-family description, and refreshed religion localization across all supported languages.
 * Added a hidden Blood Magic identity doctrine and taught cult eligibility to recognize the shared `blood_magic_cult_faith` parameter, allowing optional religion integrations without static dependencies.
 * Retained all seven standalone Cult of Quintessence heritage faiths and added automatic conversion routing for Christian, Islamic, Jewish, Eastern, Sinitic, Ásatrú, and other unreformed origins, with a documented Christian Syncretism fallback.
