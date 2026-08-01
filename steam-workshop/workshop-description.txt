@@ -34,6 +34,10 @@ A Blood Mage's mastery now visibly transforms them, from subtly reddened eyes to
 
 A dedicated panel brings together all five mastery tracks, exact Major and Minor Lifeforce counts, attunement, core decisions, and collapsible rosters for Blood Golems and Crimson Warriors or Champions.
 
+[h3]Religion Rule and Localization[/h3]
+
+The [b]Blood Mage Religion[/b] game rule can enable the decision for everyone, restrict it to players, or disable it entirely. Cult of Quintessence religion text has also been expanded and refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
+
 [h3]Automatic Syncretism Faith Selection[/h3]
 
 An automatic religion-type selection happens when a character embraces the Cult of Quintessence. Conversion examines the character's previous faith, including any syncretism it already follows, and automatically chooses the matching cult variant:

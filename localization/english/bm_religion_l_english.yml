@@ -10,7 +10,7 @@
 
   # Religion family
   rf_quintessence: "Quintessence"
-  rf_quintessence_desc: "Quintessence"
+  rf_quintessence_desc: "Faiths that seek mastery over the vital essence carried in blood."
   rf_quintessence_opinion: "[GetReligionFamily('rf_quintessence').GetName] Opinion"
 
   # Core Terms - Religion
@@ -85,7 +85,7 @@
   quintessence_faith_unreformed_old_adherent_plural: "$quintessence_faith_adherent_plural$"
   # The Quintessence
   quintessence_high_god_name: "The Quintessence"
-  quintessence_high_god_name_2: "The Primordial Current" 
+  quintessence_high_god_name_2: "The Primordial Current"
   quintessence_high_god_name_possessive: "The Quintessence's"
   quintessence_high_god_name_alternate: "The Vermillion Wellspring"
   quintessence_high_god_name_alternate_possessive: "The Vermillion Wellspring's"

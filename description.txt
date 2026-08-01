@@ -71,6 +71,7 @@ Blood Mages can follow their own unique faith, The Cult of Quintessence: https:/
     [*] [b]Automatic Religious Heritage[/b]: There is no manual selector—conversion examines the character's previous faith and chooses Christian, Islamic, Jewish, Eastern, or Sinitic Syncretism; an Ásatrú-specific traditional faith; or a faith for other unreformed traditions
     [*] All seven variants are standalone faiths within the Cult of Quintessence, preserving the main mod's compatibility with vanilla religions
     [*] Faiths outside the recognized families use Christian Syncretism as a backwards-compatible fallback
+    [*] The [b]Blood Mage Religion[/b] game rule can enable the embrace-faith decision for everyone, restrict it to players, or disable it entirely
 [/list]
 
 [h1]Optional Native Religions Submod[/h1]
@@ -83,7 +84,7 @@ The separate [b]Blood Mages - Native Religions[/b] compatibility submod places a
     [*] Optional because native faith registration requires complete vanilla religion overlays and can conflict with religion mods
 [/list]
 
-Off for AI by default, but can be enabled via game rule or disabled completely. It is disabled for LOTR/EK2/AGOT but works in PoD. 
+The main mod's Cult of Quintessence religion text and game-rule descriptions are refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
 
 [h1]Getting Started[/h1]
 There are various ways to gain the Blood Mage trait

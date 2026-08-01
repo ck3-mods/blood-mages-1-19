@@ -10,7 +10,7 @@
 
   # Famille religieuse
   rf_quintessence: "Quintessence"
-  rf_quintessence_desc: "Quintessence"
+  rf_quintessence_desc: "Foi cherchant à maîtriser l'essence vitale portée par le sang."
   rf_quintessence_opinion: "Opinion envers [GetReligionFamily('rf_quintessence').GetName]"
 
   # Termes fondamentaux de la religion

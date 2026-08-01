@@ -1,4 +1,212 @@
 ﻿l_korean:
+  # Men at arms
+  holy_order_knights_of_the_crimson_chalice: "진홍빛 성배 기사단"
+  holy_order_custodians_of_the_vital_essence: "생명 정수의 수호자"
+  holy_order_crimson_covenant: "진홍의 언약"
+  holy_order_sanguine_disciples: "핏빛 제자"
+  holy_order_crimson_tide: "진홍 타이드"
+  holy_order_bloodbound_sentinels: "혈결된 파수꾼"
+  holy_order_scarlet_vanguard: "주홍 선봉대"
+
+  # Religion family
+  rf_quintessence: "정수"
+  rf_quintessence_desc: "피에 담긴 생명의 본질에 대한 지배력을 추구하는 신앙입니다."
+  rf_quintessence_opinion: "[GetReligionFamily('rf_quintessence').GetName] 의견"
+
+  # Core Terms - Religion
+  quintessence_religion: "정수 숭배"
+  quintessence_religion_adj: "정수주의"
+  quintessence_religion_adherent: "정수주의자"
+  quintessence_religion_adherent_plural: "정수주의자"
+  quintessence_religion_desc: "정수 숭배(Cult of the Quintessence)는 모든 존재를 통해 흐르는 원시 생명력을 신성한 것이 아니라 궁극적인 힘의 화폐로 인식합니다. 금지된 피의 의식과 계산된 희생을 통해 추종자들은 이 정수를 추출하고 조작하고 활용하여 필멸의 한계를 초월합니다. 신을 숭배하는 전통적인 신앙과는 달리, 정수주의자들는 자신을 존재의 기본 기반의 주인이 될 것으로 봅니다."
+  # Core Terms - Faith
+  quintessence_faith: "정수 숭배"
+  quintessence_faith_adj: "정수주의"
+  quintessence_faith_adherent: "정수주의자"
+  quintessence_faith_adherent_plural: "정수주의자"
+  quintessence_faith_desc: "기독교 정수론자들은 갈보리에서 흘린 피가 더 깊은 신비를 드러냈다고 선언합니다. 생명 자체는 쏟아지고, 받아들여지고, 통제될 수 있는 신성한 흐름입니다. 그들은 금지된 진홍색 신학을 통해 수난, 순교자, 성찬을 해석하며, 모든 심장 박동이 그리스도의 희생을 반영하며 피의 신비를 이해하는 사람은 죽을 육체의 나약함을 극복할 수 있다고 가르칩니다."
+  quintessence_faith_islamic: "$quintessence_faith$"
+  quintessence_faith_islamic_adj: "$quintessence_faith_adj$"
+  quintessence_faith_islamic_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_islamic_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_islamic_desc: "이슬람 정수주의자들은 알라만이 신이고 피는 amanah, 즉 모든 생명체 안에 있는 신성한 신뢰라고 주장합니다. 그들은 선지자, 의사, 신비주의자들이 각각 그 숨겨진 율법의 일부를 보았고, 규율 있는 의식, 단식, 신중하게 측정된 희생을 통해 충실한 자들이 창조에 기록된 질서에 복종하면서 생명의 흐름을 마스터할 수 있다고 주장합니다."
+  quintessence_faith_jewish: "$quintessence_faith$"
+  quintessence_faith_jewish_adj: "$quintessence_faith_adj$"
+  quintessence_faith_jewish_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_jewish_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_jewish_desc: "유대인 정수주의자들은 육체의 생명이 피에 있다는 고대의 가르침으로 시작합니다. 그들은 언약, 할례, 성전 희생의 기억을 숨겨진 규율의 단편으로 간주하며, 피는 세대의 상속과 백성을 하나로 묶는 의무를 모두 수반한다고 믿습니다. 그 유산을 명령하는 것은 그들의 눈에는 창조의 가장 깊은 흐름에 닿는 것입니다."
+  quintessence_faith_eastern: "$quintessence_faith$"
+  quintessence_faith_eastern_adj: "$quintessence_faith_adj$"
+  quintessence_faith_eastern_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_eastern_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_eastern_desc: "Eastern 정수주의자들는 Quintessence를 삼사라(samsara)를 통해 움직이는 생명의 흐름, 즉 호흡, 혈액, 카르마, 의식이 단일 순환 내에 묶여 있다고 설명합니다. 어떤 사람들은 그것을 프라나라고 부르고, 다른 사람들은 그것을 애착을 풀거나 카르마의 부담을 정화하는 수단으로 이해합니다. 모두는 엄격한 의식이 이 흐름을 각성, 장수, 최종 해방으로 방향을 바꿀 수 있다고 가르칩니다."
+  quintessence_faith_sinitic: "$quintessence_faith$"
+  quintessence_faith_sinitic_adj: "$quintessence_faith_adj$"
+  quintessence_faith_sinitic_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_sinitic_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_sinitic_desc: "Sinitic 정수주의자들는 피는 qi의 가장 밀도가 높은 혈관이며 조상으로부터 물려 받아 하늘 아래 질서를 유지한다고 주장합니다. 몸의 경락을 추적하고, 죽은 자를 기리고, 희생과 조화의 균형을 유지함으로써 그들은 물려받은 본질을 낭비하기보다는 정제하려고 노력합니다. 완전한 순환은 몸과 혈통과 우주를 하나의 진홍색 질서로 하나로 묶는다고 합니다."
+  quintessence_faith_asatru: "$quintessence_faith$"
+  quintessence_faith_asatru_adj: "$quintessence_faith_adj$"
+  quintessence_faith_asatru_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_asatru_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_asatru_desc: "Ásatrú 정수주의자들는 외국 숙박을 거부하고 오딘의 시련에 담긴 진홍빛 흐름, einherjar의 전투 분노, blót에서 흘린 피를 인식합니다. 목적을 가지고 죽이거나 죽는 것은 씨족, 땅, 신에게 힘을 방출합니다. 전쟁은 성찬이고, 희생은 교환이며, 정수는 그것을 차지할 만큼 대담한 자의 것입니다."
+  quintessence_faith_unreformed: "$quintessence_faith$"
+  quintessence_faith_unreformed_adj: "$quintessence_faith_adj$"
+  quintessence_faith_unreformed_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_unreformed_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_unreformed_desc: "고대 신들의 추종자들 사이에서 피는 필멸자와 조상, 영혼 사이에서 사용되는 첫 번째 언어로 기억됩니다. 정수주의자들는 맹세, 헌금 및 희생 잔치를 보존하지만 이러한 의식은 보이지 않는 힘을 달래는 것 이상의 역할을 한다고 가르칩니다. 그들은 힘이 짐승에서 전사로, 죽은 자에서 산 자에게, 땅에서 선택된 백성에게 전달되는 통로를 엽니다."
+  quintessence_faith_old: "$quintessence_faith$"
+  quintessence_faith_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_islamic_old: "$quintessence_faith$"
+  quintessence_faith_islamic_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_islamic_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_islamic_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_jewish_old: "$quintessence_faith$"
+  quintessence_faith_jewish_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_jewish_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_jewish_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_eastern_old: "$quintessence_faith$"
+  quintessence_faith_eastern_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_eastern_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_eastern_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_sinitic_old: "$quintessence_faith$"
+  quintessence_faith_sinitic_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_sinitic_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_sinitic_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_asatru_old: "$quintessence_faith$"
+  quintessence_faith_asatru_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_asatru_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_asatru_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  quintessence_faith_unreformed_old: "$quintessence_faith$"
+  quintessence_faith_unreformed_old_adj: "$quintessence_faith_adj$"
+  quintessence_faith_unreformed_old_adherent: "$quintessence_faith_adherent$"
+  quintessence_faith_unreformed_old_adherent_plural: "$quintessence_faith_adherent_plural$"
+  # The Quintessence
+  quintessence_high_god_name: "정수"
+  quintessence_high_god_name_2: "원시 전류"
+  quintessence_high_god_name_possessive: "퀸테센스의"
+  quintessence_high_god_name_alternate: "버밀리온 샘"
+  quintessence_high_god_name_alternate_possessive: "버밀리온 샘의"
+  quintessence_himself: "그 자체"
+  quintessence_high_its: "그"
+  quintessence_creator_name: "첫 번째 혈전증"
+  quintessence_creator_name_possessive: "최초의 헤마터지"
+  quintessence_creator_shehe: "그것"
+  quintessence_creator_herhis: "그"
+  quintessence_creator_herhim: "그것"
+
+  quintessence_health_god_name: "진홍 서스테이너"
+  quintessence_health_god_name_possessive: "진홍 서스테이너의"
+  quintessence_health_god_shehe: "그것"
+  quintessence_health_god_herhis: "그"
+  quintessence_health_god_herhim: "그것"
+
+  quintessence_fertility_god_name: "진홍빛 어머니"
+  quintessence_fertility_god_name_possessive: "진홍 마더스"
+  quintessence_fertility_god_shehe: "그녀"
+  quintessence_fertility_herhis: "그녀"
+  quintessence_fertility_herhim: "그녀"
+
+  quintessence_wealth_god_name: "핏빛 보물"
+  quintessence_wealth_god_name_possessive: "핏빛 호드의"
+  quintessence_wealth_god_shehe: "그것"
+  quintessence_wealth_god_herhis: "그"
+  quintessence_wealth_god_herhim: "그것"
+
+  quintessence_household_god_name: "심장 수호자"
+  quintessence_household_god_name_possessive: "심장 수호자의"
+  quintessence_household_god_shehe: "그녀"
+  quintessence_household_god_herhis: "그녀"
+  quintessence_household_god_herhim: "그녀"
+
+  quintessence_fate_god_name: "베일에 싸인 직공"
+  quintessence_fate_god_name_possessive: "베일드 위버의"
+  quintessence_fate_god_shehe: "그들은"
+  quintessence_fate_god_herhis: "그들의"
+  quintessence_fate_god_herhim: "그들"
+
+  quintessence_knowledge_god_name: "속삭이는 정맥"
+  quintessence_knowledge_god_name_possessive: "속삭이는 정맥"
+  quintessence_knowledge_god_shehe: "그것"
+  quintessence_knowledge_god_herhis: "그"
+  quintessence_knowledge_god_herhim: "그것"
+
+  quintessence_war_god_name: "출혈의 선봉대"
+  quintessence_war_god_name_possessive: "출혈의 선봉대"
+  quintessence_war_god_shehe: "그는"
+  quintessence_war_god_herhis: "그의"
+  quintessence_war_god_herhim: "그 사람"
+
+  quintessence_trickster_name: "진홍색 그림자"
+  quintessence_trickster_name_possessive: "진홍 섀도우의"
+  quintessence_trickster_shehe: "그는"
+  quintessence_trickster_herhis: "그의"
+  quintessence_trickster_herhim: "그 사람"
+
+  quintessence_night_god_name: "야행성 방혈자"
+  quintessence_night_god_name_possessive: "밤의 방혈자(Nocturnal Exsanguinator)"
+  quintessence_night_god_shehe: "그녀"
+  quintessence_night_god_herhis: "그녀"
+  quintessence_night_god_herhim: "그녀"
+
+  quintessence_water_god_name: "불평하는 심연"
+  quintessence_water_god_name_possessive: "불평하는 심연'"
+  quintessence_water_god_shehe: "그녀"
+  quintessence_water_god_herhis: "그녀"
+  quintessence_water_god_herhim: "그녀"
+
+  # Example Deities/Figures
+  quintessence_good_god_lifeforce: "활력 사이펀"
+  quintessence_good_god_blood: "진홍 타이드"
+  quintessence_devil_name: "응고되는 심연"
+  quintessence_devil_name_possessive: "응고하는 심연의"
+  quintessence_devil_himself: "그 자체"
+  quintessence_devil_herhis: "그"
+  quintessence_evil_god_decay: "부패"
+
+  # Places of Worship
+  quintessence_house_of_worship: "피의 제단"
+  quintessence_house_of_worship_2: "정수의 성역"
+  quintessence_house_of_worship_3: "순환성당"
+  quintessence_house_of_worship_plural: "피의 제단"
+
+  # Religious Figures
+  quintessence_religious_head_title: "고혈압"
+  quintessence_religious_head_title_name: "핏빛 비밀 회의"
+  quintessence_priest: "혈전증"
+  quintessence_priest_plural: "혈액학자"
+  quintessence_priest_alternate_plural: "피의 맹세"
+  quintessence_bishop: "블러드 시어"
+  quintessence_bishop_plural: "블러드 시어"
+  quintessence_devotee: "시작하다"
+  quintessence_devoteeplural: "입문자"
+
+  # Realms
+  quintessence_divine_realm: "혈역학적 평면"
+  quintessence_divine_realm_2: "베일에 싸인 광활한 공간"
+  quintessence_divine_realm_3: "근원의 심장"
+  quintessence_afterlife: "영구 순환"
+  quintessence_afterlife_2: "대 합류"
+  quintessence_afterlife_3: "축복받은 흡수"
+  quintessence_negative_afterlife: "메마른 공허"
+  quintessence_negative_afterlife_2: "황폐한 땅"
+  quintessence_negative_afterlife_3: "진홍 어비스"
+
+  # Symbols and Texts
+  quintessence_religious_symbol: "블러드 드롭"
+  quintessence_religious_symbol_2: "흐르는 정맥"
+  quintessence_religious_symbol_3: "두 갈래로 갈라진 그릇"
+  quintessence_religious_text: "혈액학 코덱스"
+  quintessence_religious_text_2: "정맥의 노래"
+  quintessence_religious_text_3: "코퍼스 플루엔스"
+
+  # Great Holy Wars
+  bm_ghw_great_holy_war: "피의 성전"
+  bm_ghw_great_holy_wars: "피의 성전"
+
+  # Legacy compatibility localization
  NOT_convert_to_blood_cult_requirement: "대상은 궁정인, 죄수, 친구, 가족 또는 연인이어야 합니다. 또는 갈고리를 사용해 강제할 수도 있습니다. 방랑자도 후원자를 개종시킬 수 있습니다." #deepl:2146092671
  convert_to_blood_cult: "블러드 컬트로 전환" #deepl:3622748983
  convert_to_blood_cult.fail: "실패" #deepl:2247084496
@@ -13,128 +221,9 @@
  cult_of_blood_adherent: "피의 광신도" #deepl:2508460524
  cult_of_blood_adherent_plural: "피의 숭배자" #deepl:3405063345
  cult_of_blood_adj: "피의 광신도" #deepl:2508460524
- cult_of_blood_desc: "피의 교단은 생명체의 생명력을 활용하는 고대의 금지된 형태의 마법을 행합니다. 신봉자들은 피가 기억, 특성, 생명 자체를 포함하는 궁극적인 힘의 화폐라고 믿습니다. 피의 숭배자들은 희생과 친교의 의식을 통해 자신의 생명을 연장하고, 다른 사람의 특성을 흡수하며, 신중하게 배양한 생명력을 통해 현실을 조작합니다. 이들의 신앙은 유럽 전역에 흩어져 있는 성지를 중심으로 구성되며, 각 성지는 신비한 힘의 연결고리 역할을 합니다. 기존 종교에서는 가증스러운 이단으로 비난받지만, 블러드 컬티스트는 스스로를 인간의 한계를 초월한 존재로 여기며 기존 종교에서는 감히 인정하지 않는 크림슨 아트를 통해 불멸의 길을 추구합니다." #deepl:465797134
+ cult_of_blood_desc: "피의 교단은 생명체의 생명력을 활용하는 고대의 금지된 형태의 마법을 행합니다. 신봉자들은 피가 기억, 특성, 생명 자체를 포함하는 궁극적인 힘의 화폐라고 믿습니다. 피의 숭배자들은 희생과 친교의 의식을 통해 자신의 생명을 연장하고, 다른 사람의 특성을 흡수하며, 신중하게 배양한 생명력을 통해 현실을 조작합니다. 이들의 신앙은 유럽 전역에 흩어져 있는 성지를 중심으로 구성되며, 각 성지는 신비한 힘의 연결고리 역할을 합니다. 기존 종교에서는 가증스러운 이단으로 비난받지만, 블러드 컬티스트는 스스로를 인간의 한계를 초월한 존재로 여기며 기존 종교에서는 감히 인정하지 않는 진홍 아트를 통해 불멸의 길을 추구합니다." #deepl:465797134
  cult_of_blood_religion: "피의 광신도" #deepl:2508460524
  cult_of_blood_religion_adherent: "피의 광신도" #deepl:2508460524
  cult_of_blood_religion_adherent_plural: "피의 숭배자" #deepl:3405063345
  cult_of_blood_religion_adj: "피의 광신도" #deepl:2508460524
  cult_of_blood_religion_desc: "피의 광신도" #deepl:2508460524
- bm_ghw_great_holy_war: "블러드 십자군" #deepl:4241401060
- bm_ghw_great_holy_wars: "블러드 십자군" #deepl:1465349405
- holy_order_bloodbound_sentinels: "블러드 바운드 센티널" #deepl:862820193
- holy_order_crimson_covenant: "크림슨 언약" #deepl:2225732591
- holy_order_crimson_tide: "크림슨 타이드" #deepl:3845672976
- holy_order_custodians_of_the_vital_essence: "생명 본질의 관리인" #deepl:616176040
- holy_order_knights_of_the_crimson_chalice: "진홍색 성배의 기사단" #deepl:3069843153
- holy_order_sanguine_disciples: "상쾌한 제자" #deepl:452411562
- holy_order_scarlet_vanguard: "스칼렛 뱅가드" #deepl:3873575314
- quintessence_afterlife: "영구 순환" #deepl:1388890337
- quintessence_afterlife_2: "위대한 합류" #deepl:2854479410
- quintessence_afterlife_3: "축복받은 흡수" #deepl:86638552
- quintessence_bishop: "블러드 선견자" #deepl:1030164056
- quintessence_bishop_plural: "피의 선견자" #deepl:2651331186
- quintessence_creator_herhim: "It" #deepl:3504575528
- quintessence_creator_herhis: "그것의" #deepl:991300985
- quintessence_creator_name: "첫 번째 출혈" #deepl:1443967939
- quintessence_creator_name_possessive: "첫 번째 혈뇨의" #deepl:584257931
- quintessence_creator_shehe: "It" #deepl:3504575528
- quintessence_devil_herhis: "그것의" #deepl:991300985
- quintessence_devil_himself: "그 자체" #deepl:1352236054
- quintessence_devil_name: "응고 심연" #deepl:544843865
- quintessence_devil_name_possessive: "응고 심연의" #deepl:987681555
- quintessence_devotee: "시작" #deepl:4207471581
- quintessence_devoteeplural: "이니시에이츠" #deepl:1236285465
- quintessence_divine_realm: "혈역학 평면" #deepl:1070738134
- quintessence_divine_realm_2: "베일에 싸인 창공" #deepl:3635823824
- quintessence_divine_realm_3: "소스의 심장" #deepl:3941197871
- quintessence_evil_god_decay: "썩음" #deepl:167448488
- quintessence_faith: "정수의 숭배" #deepl:3680159905
- quintessence_faith_adherent: "정석주의자" #deepl:3448734310
- quintessence_faith_adherent_plural: "전형적인 주의자" #deepl:450212797
- quintessence_faith_adj: "전형적인" #deepl:2337302738
- quintessence_faith_desc: "정수의 숭배는 모든 존재에게 흐르는 원초적인 생명력을 신성한 것이 아니라 궁극적인 힘의 원천으로 인식합니다. 신도들은 금지된 피의 의식과 계산된 희생을 통해 이 정수를 추출하고, 조작하고, 활용하여 인간의 한계를 초월합니다. 신을 숭배하는 기존 신앙과 달리, 본질주의자들은 스스로를 존재의 근본적인 주인이라고 여깁니다." #deepl:3836643490
- quintessence_fate_god_herhim: "그들" #deepl:2958024156
- quintessence_fate_god_herhis: "그들의" #deepl:3596078134
- quintessence_fate_god_name: "베일에 싸인 직공" #deepl:3357118180
- quintessence_fate_god_name_possessive: "베일에 싸인 직공의" #deepl:1140202902
- quintessence_fate_god_shehe: "그들" #deepl:3149652448
- quintessence_fertility_god_name: "크림슨 마더" #deepl:2036206159
- quintessence_fertility_god_name_possessive: "크림슨 마더의" #deepl:2064508326
- quintessence_fertility_god_shehe: "그녀" #deepl:2431660790
- quintessence_fertility_herhim: "Her" #deepl:600503178
- quintessence_fertility_herhis: "Her" #deepl:600503178
- quintessence_good_god_blood: "크림슨 타이드" #deepl:2890984212
- quintessence_good_god_lifeforce: "활력 사이펀" #deepl:2203638188
- quintessence_health_god_herhim: "It" #deepl:3504575528
- quintessence_health_god_herhis: "그것의" #deepl:991300985
- quintessence_health_god_name: "크림슨 서스테이너" #deepl:573699677
- quintessence_health_god_name_possessive: "크림슨 서스테이너의" #deepl:339624865
- quintessence_health_god_shehe: "It" #deepl:3504575528
- quintessence_high_god_name: "정수" #deepl:3935022806
- quintessence_high_god_name_2: "태초의 흐름" #deepl:652969168
- quintessence_high_god_name_alternate: "주홍빛 샘" #deepl:2292790518
- quintessence_high_god_name_alternate_possessive: "버밀리언 웰스프링의" #deepl:2429577605
- quintessence_high_god_name_possessive: "정수의" #deepl:2085300168
- quintessence_high_its: "그것의" #deepl:991300985
- quintessence_himself: "그 자체" #deepl:1352236054
- quintessence_house_of_worship: "피의 제단" #deepl:3953723833
- quintessence_house_of_worship_2: "정수의 성역" #deepl:1330940529
- quintessence_house_of_worship_3: "순환 성당" #deepl:3458928720
- quintessence_house_of_worship_plural: "피의 제단" #deepl:3886478934
- quintessence_household_god_herhim: "Her" #deepl:600503178
- quintessence_household_god_herhis: "Her" #deepl:600503178
- quintessence_household_god_name: "심장 수호자" #deepl:3457585033
- quintessence_household_god_name_possessive: "하트 가디언의" #deepl:379753972
- quintessence_household_god_shehe: "그녀" #deepl:2431660790
- quintessence_knowledge_god_herhim: "It" #deepl:3504575528
- quintessence_knowledge_god_herhis: "그것의" #deepl:991300985
- quintessence_knowledge_god_name: "속삭이는 정맥" #deepl:4068939793
- quintessence_knowledge_god_name_possessive: "속삭이는 정맥의" #deepl:2455188108
- quintessence_knowledge_god_shehe: "It" #deepl:3504575528
- quintessence_negative_afterlife: "메마른 공허" #deepl:3372587526
- quintessence_negative_afterlife_2: "황폐한 땅" #deepl:3057957775
- quintessence_negative_afterlife_3: "크림슨 어비스" #deepl:1881688588
- quintessence_night_god_herhim: "Her" #deepl:600503178
- quintessence_night_god_herhis: "Her" #deepl:600503178
- quintessence_night_god_name: "야행성 엑상기네이터" #deepl:1390769276
- quintessence_night_god_name_possessive: "야행성 엑상기네이터의" #deepl:1834330165
- quintessence_night_god_shehe: "그녀" #deepl:2431660790
- quintessence_priest: "출혈" #deepl:3389021439
- quintessence_priest_alternate_plural: "피의 맹세" #deepl:3569692315
- quintessence_priest_plural: "혈액 전문의" #deepl:3870296708
- quintessence_religion: "정수의 숭배" #deepl:3680159905
- quintessence_religion_adherent: "정석주의자" #deepl:3448734310
- quintessence_religion_adherent_plural: "전형적인 주의자" #deepl:450212797
- quintessence_religion_adj: "전형적인" #deepl:2337302738
- quintessence_religion_desc: "정수의 숭배는 모든 존재에게 흐르는 원초적인 생명력을 신성한 것이 아니라 궁극적인 힘의 원천으로 인식합니다. 신도들은 금지된 피의 의식과 계산된 희생을 통해 이 정수를 추출하고, 조작하고, 활용하여 인간의 한계를 초월합니다. 신을 숭배하는 기존 신앙과 달리, 본질주의자들은 스스로를 존재의 근본적인 주인이라고 여깁니다." #deepl:3836643490
- quintessence_religious_head_title: "고혈량" #deepl:100563423
- quintessence_religious_head_title_name: "상쾌한 콘클라베" #deepl:3496402259
- quintessence_religious_symbol: "블러드 드롭" #deepl:3757383482
- quintessence_religious_symbol_2: "흐르는 정맥" #deepl:2468258925
- quintessence_religious_symbol_3: "두 갈래로 갈라진 그릇" #deepl:3624080748
- quintessence_religious_text: "혈액학 코덱스" #deepl:434885921
- quintessence_religious_text_2: "더 베인 송" #deepl:4203669828
- quintessence_religious_text_3: "코퍼스 플루엔스" #deepl:2605980930
- quintessence_trickster_herhim: "Him" #deepl:3215737218
- quintessence_trickster_herhis: "His" #deepl:2980209568
- quintessence_trickster_name: "크림슨 그림자" #deepl:1599023899
- quintessence_trickster_name_possessive: "크림슨 섀도우의" #deepl:2269581869
- quintessence_trickster_shehe: "He" #deepl:1094858780
- quintessence_war_god_herhim: "Him" #deepl:3215737218
- quintessence_war_god_herhis: "His" #deepl:2980209568
- quintessence_war_god_name: "출혈의 선봉대" #deepl:2101728027
- quintessence_war_god_name_possessive: "출혈 선봉대의" #deepl:1794980398
- quintessence_war_god_shehe: "He" #deepl:1094858780
- quintessence_water_god_herhim: "Her" #deepl:600503178
- quintessence_water_god_herhis: "Her" #deepl:600503178
- quintessence_water_god_name: "웅웅거리는 깊이" #deepl:3066826590
- quintessence_water_god_name_possessive: "웅얼거리는 깊이'" #deepl:694305924
- quintessence_water_god_shehe: "그녀" #deepl:2431660790
- quintessence_wealth_god_herhim: "It" #deepl:3504575528
- quintessence_wealth_god_herhis: "그것의" #deepl:991300985
- quintessence_wealth_god_name: "상쾌한 호드" #deepl:3629933715
- quintessence_wealth_god_name_possessive: "상쾌한 호드의" #deepl:3885081822
- quintessence_wealth_god_shehe: "It" #deepl:3504575528
- rf_quintessence: "정수" #deepl:2749568466
- rf_quintessence_desc: "정수" #deepl:2749568466
- rf_quintessence_opinion: "[GetReligionFamily('rf_quintessence').GetName] 의견" #deepl:2599473902

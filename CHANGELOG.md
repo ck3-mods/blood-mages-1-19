@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+* Renamed the religion game rule to remain accurate with optional native faith integrations, expanded the Cult of the Quintessence religion-family description, and refreshed religion localization across all supported languages.
 * Added a hidden Blood Magic identity doctrine and taught cult eligibility to recognize the shared `blood_magic_cult_faith` parameter, allowing optional religion integrations without static dependencies.
 * Retained all seven standalone Cult of Quintessence heritage faiths and added automatic conversion routing for Christian, Islamic, Jewish, Eastern, Sinitic, Ásatrú, and other unreformed origins, with a documented Christian Syncretism fallback.
 * Moved native-religion integration, including the Cult of the Crimson Ka, into the optional Blood Mages - Native Religions submod so the main mod no longer overlays vanilla religions.

@@ -1,8 +1,8 @@
 ﻿l_spanish:
- rule_quintessence_religion: "Mago de Sangre: Quintessence Cult" #deepl:3012118011
- setting_quintessence_religion_disabled: "Discapacitados" #deepl:1603118088
- setting_quintessence_religion_disabled_desc: "Unirse a la decisión de culto DISABLED." #deepl:1491276764
- setting_quintessence_religion_enabled: "Activado" #deepl:3001197554
- setting_quintessence_religion_enabled_desc: "Unirse a la decisión de culto HABILITADO." #deepl:1276838154
- setting_quintessence_religion_enabled_player_only: "Sólo jugadores" #deepl:3920533262
- setting_quintessence_religion_enabled_player_only_desc: "Unirse a la decisión de culto HABILITADO sólo para jugadores" #deepl:3215730772
+  rule_quintessence_religion: "Religión del mago de sangre"
+  setting_quintessence_religion_enabled: "Habilitado"
+  setting_quintessence_religion_enabled_desc: "Se habilita la decisión de abrazar una fe de Mago de Sangre."
+  setting_quintessence_religion_disabled: "Deshabilitado"
+  setting_quintessence_religion_disabled_desc: "La decisión de abrazar una fe de Mago de Sangre está desactivada."
+  setting_quintessence_religion_enabled_player_only: "Sólo jugador"
+  setting_quintessence_religion_enabled_player_only_desc: "Sólo los jugadores pueden utilizar la decisión de abrazar una fe de Mago de Sangre."
