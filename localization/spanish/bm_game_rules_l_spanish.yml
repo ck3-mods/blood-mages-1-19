@@ -1,4 +1,10 @@
 ﻿l_spanish:
+  game_rule_category_blood_mages: "@bm_game_rule_icon! Magos de Sangre"
+  rule_bm_lore: "Ambientación de los Magos de Sangre"
+  setting_bm_lore_historical: "Histórica"
+  setting_bm_lore_historical_desc: "Utiliza el Culto de la Quintaesencia, su legado religioso adaptado al mundo histórico y su red de lugares sagrados."
+  setting_bm_lore_agot: "Juego de tronos"
+  setting_bm_lore_agot_desc: "Al cargar el complemento Blood Mages - AGOT Religions, sustituye los cultos del mundo histórico por tradiciones fieles al universo de los Siete, los Antiguos Dioses, el Dios Ahogado, R'hllor, el Rhoyne y Valyria."
   rule_quintessence_religion: "Religión del mago de sangre"
   setting_quintessence_religion_enabled: "Habilitado"
   setting_quintessence_religion_enabled_desc: "Se habilita la decisión de abrazar una fe de Mago de Sangre."

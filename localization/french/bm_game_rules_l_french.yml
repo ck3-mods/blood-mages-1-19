@@ -1,4 +1,10 @@
 ﻿l_french:
+ game_rule_category_blood_mages: "@bm_game_rule_icon! Hématurges"
+ rule_bm_lore: "Univers des hématurges"
+ setting_bm_lore_historical: "Historique"
+ setting_bm_lore_historical_desc: "Utilise le Culte de la Quintessence, son héritage religieux adapté au monde historique et son réseau de lieux saints."
+ setting_bm_lore_agot: "Le Trône de fer"
+ setting_bm_lore_agot_desc: "Lorsque le module Blood Mages - AGOT Religions est chargé, remplace les cultes du monde historique par des traditions fidèles à l'univers des Sept, des Anciens Dieux, du Dieu Noyé, de R'hllor, de la Rhoyne et de Valyria."
  rule_quintessence_religion: "Religion des hématurges"
  setting_quintessence_religion_disabled: "Désactivé"
  setting_quintessence_religion_disabled_desc: "La décision permettant d'embrasser une foi d'hématurge est désactivée."

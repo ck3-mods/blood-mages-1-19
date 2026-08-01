@@ -1,4 +1,10 @@
 ﻿l_polish:
+  game_rule_category_blood_mages: "@bm_game_rule_icon! Magowie Krwi"
+  rule_bm_lore: "Świat Magów Krwi"
+  setting_bm_lore_historical: "Historyczny"
+  setting_bm_lore_historical_desc: "Używa Kultu Kwintesencji wraz z jego dziedzictwem religijnym osadzonym w świecie historycznym i siecią miejsc świętych."
+  setting_bm_lore_agot: "Gra o tron"
+  setting_bm_lore_agot_desc: "Po wczytaniu dodatku Blood Mages - AGOT Religions zastępuje kulty świata historycznego tradycjami zgodnymi z uniwersum Siedmiu, Starych Bogów, Utopionego Boga, R'hllora, Rhoyne i Valyrii."
   rule_quintessence_religion: "Religia Magów Krwi"
   setting_quintessence_religion_enabled: "Włączone"
   setting_quintessence_religion_enabled_desc: "Decyzja o przyjęciu wiary Maga Krwi jest możliwa."

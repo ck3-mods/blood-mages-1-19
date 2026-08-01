@@ -1,4 +1,10 @@
 ﻿l_simp_chinese:
+  game_rule_category_blood_mages: "@bm_game_rule_icon! 血法师"
+  rule_bm_lore: "血法师世界观"
+  setting_bm_lore_historical: "历史世界"
+  setting_bm_lore_historical_desc: "启用精粹教派及其适配历史世界的宗教传承与圣地网络。"
+  setting_bm_lore_agot: "权力的游戏"
+  setting_bm_lore_agot_desc: "加载 Blood Mages - AGOT Religions 配套模组后，将历史世界的教派替换为符合七神、旧神、淹神、拉赫洛、洛恩河与瓦雷利亚设定的传统。"
   rule_quintessence_religion: "血法师宗教"
   setting_quintessence_religion_enabled: "启用"
   setting_quintessence_religion_enabled_desc: "接受血法师信仰的决定已经启用。"

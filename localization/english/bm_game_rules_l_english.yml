@@ -1,4 +1,10 @@
 ﻿l_english:
+  game_rule_category_blood_mages: "@bm_game_rule_icon! Blood Mages"
+  rule_bm_lore: "Blood Mage Lore"
+  setting_bm_lore_historical: "Historical"
+  setting_bm_lore_historical_desc: "Uses the Cult of the Quintessence and its vanilla-world religious heritage and holy-site network."
+  setting_bm_lore_agot: "A Game of Thrones"
+  setting_bm_lore_agot_desc: "With the Blood Mages - AGOT Religions companion loaded, replaces the vanilla-world cults with lore-friendly traditions of the Seven, Old Gods, Drowned God, R'hllor, Rhoyne, and Valyria."
   rule_quintessence_religion: "Blood Mage Religion"
   setting_quintessence_religion_enabled: "Enabled"
   setting_quintessence_religion_enabled_desc: "The decision to embrace a Blood Mage faith is enabled."

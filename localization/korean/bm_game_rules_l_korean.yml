@@ -1,4 +1,10 @@
 ﻿l_korean:
+  game_rule_category_blood_mages: "@bm_game_rule_icon! 혈법사"
+  rule_bm_lore: "혈법사 세계관"
+  setting_bm_lore_historical: "역사적 세계"
+  setting_bm_lore_historical_desc: "정수 교단과 역사 세계에 맞춘 종교적 유산 및 성지망을 사용합니다."
+  setting_bm_lore_agot: "왕좌의 게임"
+  setting_bm_lore_agot_desc: "Blood Mages - AGOT Religions 보조 모드를 함께 불러오면 역사 세계의 교단을 칠신, 옛 신, 익사한 신, 를로르, 로인과 발리리아의 설정에 맞는 전통으로 대체합니다."
   rule_quintessence_religion: "혈마법사 종교"
   setting_quintessence_religion_enabled: "활성화됨"
   setting_quintessence_religion_enabled_desc: "혈법사 신앙을 받아들이기로 한 결정이 가능해졌습니다."

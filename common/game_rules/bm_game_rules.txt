@@ -1,6 +1,17 @@
-﻿quintessence_religion = {
+﻿bm_lore = {
 	categories = {
-		game_modes tweaks faith
+		blood_mages
+	}
+	default = bm_lore_historical
+	bm_lore_historical = {
+	}
+	bm_lore_agot = {
+	}
+}
+
+quintessence_religion = {
+	categories = {
+		blood_mages game_modes tweaks faith
 	}
 	default = quintessence_religion_enabled_player_only
     quintessence_religion_enabled = {

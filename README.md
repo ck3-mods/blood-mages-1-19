@@ -16,6 +16,11 @@ players who prefer it and can accept religion-mod conflicts. Other mods can mark
 Magic cult with the hidden `blood_magic_cult_faith` doctrine parameter; the provider remains
 optional because Blood Mages does not reference its database identifiers.
 
+Choose **Blood Mage Lore: Historical** for vanilla CK3. For AGOT, load the small optional
+**Blood Mages - AGOT Religions** companion after A Game of Thrones and Blood Mages, then choose
+**Blood Mage Lore: A Game of Thrones**. The companion swaps out the vanilla-world cult database
+for Westerosi traditions and holy sites without making AGOT a dependency of the main mod.
+
 ## Overview
 
 Blood Mages drain **Lifeforce** from others to extend their own lifespan and cast powerful spells. This power can be used to heal, enhance abilities, absorb traits, and more, at the cost of their own health.
