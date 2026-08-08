@@ -36,7 +36,7 @@ A dedicated panel brings together all five mastery tracks, exact Major and Minor
 
 [h3]Lore, Religion Rules, and Localization[/h3]
 
-The dedicated [b]Blood Mages[/b] game-rule category includes [b]Blood Mage Lore[/b] for choosing the historical or AGOT religion set, plus [b]Blood Mage Religion[/b] for enabling the conversion decision for everyone, restricting it to players, or disabling it entirely. Cult of Quintessence religion text has also been expanded and refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
+The dedicated [b]Blood Mages[/b] game-rule category includes [b]Blood Mage Lore[/b] for choosing the historical or AGOT religion set, [b]Blood Mage Initiation Faith[/b] for requiring a dedicated Blood Magic cult or additionally allowing faiths that accept Witchcraft, and [b]Blood Mage Religion[/b] for enabling the conversion decision for everyone, restricting it to players, or disabling it entirely. Cult of Quintessence religion text has also been expanded and refreshed across English, French, German, Korean, Polish, Russian, Simplified Chinese, and Spanish.
 
 English is the original text. Simplified Chinese is predominantly community-translated and Russian is community-translated. French contains both reviewed and machine-translated text; German, Korean, Polish, and Spanish are machine translated. Clear errors have been corrected, but machine-translated text may still contain mistakes or awkward phrasing.
 

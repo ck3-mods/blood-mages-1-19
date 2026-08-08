@@ -15,6 +15,8 @@ optional **Blood Mages - Vanilla Religions** submod provides native parent-relig
 players who prefer it and can accept religion-mod conflicts. Other mods can mark a faith as a Blood
 Magic cult with the hidden `blood_magic_cult_faith` doctrine parameter; the provider remains
 optional because Blood Mages does not reference its database identifiers.
+The **Blood Mage Initiation Faith** game rule chooses whether the cultist initiation ritual requires
+this dedicated marker or also permits characters whose faith accepts witchcraft.
 
 Choose **Blood Mage Lore: Historical** for vanilla CK3. For AGOT, load the small optional
 [**Blood Mages - AGOT Religions**](https://steamcommunity.com/sharedfiles/filedetails/?id=3775630683) companion after A Game of Thrones and Blood Mages, then choose

@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+* Added a game rule that makes the Blood Cultist initiation ritual require a dedicated Blood Magic cult faith or additionally allow faiths with Witchcraft Accepted, with the strict dedicated-cult mode as the default, and completed the hidden cult identity doctrine's UI metadata.
 * Added a dedicated, icon-backed Blood Mages game-rule category and a Blood Mage Lore rule with Historical and A Game of Thrones settings for the optional AGOT religion companion.
 * Corrected mistranslated religious terminology, dynamic substitutions, and duplicated legacy text across the supported non-English localizations.
 * Renamed the religion game rule to remain accurate with optional native faith integrations, expanded the Cult of the Quintessence religion-family description, and refreshed religion localization across all supported languages.
