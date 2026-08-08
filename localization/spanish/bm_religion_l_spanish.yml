@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "quintaesencialista"
   quintessence_religion_adherent_plural: "quintaesencialistas"
   quintessence_religion_desc: "El Culto de la Quintaesencia percibe la fuerza vital primordial que fluye a través de todos los seres no como divina, sino como la máxima moneda de poder. A través de rituales de sangre prohibidos y sacrificios calculados, sus seguidores extraen, manipulan y aprovechan esta esencia para trascender las limitaciones de la mortalidad. A diferencia de las religiones convencionales que adoran a deidades, los quintaesencialistas se ven a sí mismos como aspirantes a maestros del sustrato fundamental de la existencia."
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
   # Core Terms - Faith
   quintessence_faith: "Culto a la quintaesencia"
   quintessence_faith_adj: "quintaesencialista"

@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "정수주의자"
   quintessence_religion_adherent_plural: "정수주의자"
   quintessence_religion_desc: "정수 숭배는 모든 존재 안을 흐르는 원초적 생명력을 신성 그 자체가 아니라 권능의 궁극적인 원천으로 여깁니다. 추종자들은 금단의 혈 의식과 치밀하게 계산된 희생을 통해 이 정수를 뽑아내고 다루어 필멸의 한계를 초월하고자 합니다. 신을 숭배하는 전통적인 신앙과 달리, 정수주의자들은 스스로를 존재의 근원을 지배할 자로 여깁니다."
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
   # Core Terms - Faith
   quintessence_faith: "정수 숭배"
   quintessence_faith_adj: "정수주의"

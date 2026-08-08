@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "quintessentialiste"
   quintessence_religion_adherent_plural: "quintessentialistes"
   quintessence_religion_desc: "Pour le Culte de la Quintessence, la force vitale primordiale qui traverse tout être n'est pas divine : elle est la source suprême de tout pouvoir. Par des rites sanglants interdits et des sacrifices savamment mesurés, ses adeptes extraient cette essence, la façonnent et s'en nourrissent afin de dépasser les limites de la condition mortelle. Là où les religions ordinaires vénèrent des dieux, les quintessentialistes aspirent à régner sur la trame même de l'existence."
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
 
   # Termes fondamentaux de la foi
   quintessence_faith: "Culte de la Quintessence"

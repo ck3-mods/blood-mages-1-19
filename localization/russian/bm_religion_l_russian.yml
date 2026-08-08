@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "Квинтэссенциалист"
   quintessence_religion_adherent_plural: "Квинтэссенциалисты"
   quintessence_religion_desc: "Культ Квинтэссенции воспринимает первичную жизненную силу, текущую через все существа, не как божественную, а как высшую валюту силы. Посредством запрещенных кровавых ритуалов и рассчитанных жертвоприношений приверженцы извлекают, манипулируют и используют эту сущность, чтобы преодолеть ограничения смертности. В отличие от традиционных верований, поклоняющихся божествам, квинтэссенциалисты считают себя потенциальными хозяевами фундаментальной основы существования."
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
   # Core Terms - Faith
   quintessence_faith: "Культ Квинтэссенции"
   quintessence_faith_adj: "Квинтэссенция"

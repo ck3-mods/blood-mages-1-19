@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "Quintessenzialist"
   quintessence_religion_adherent_plural: "Quintessenzialisten"
   quintessence_religion_desc: "Der Kult der Quintessenz betrachtet die ursprüngliche Lebenskraft, die alle Wesen durchströmt, nicht als göttlich, sondern als die höchste Quelle der Macht. Durch verbotene Blutrituale und wohlbedachte Opfer gewinnen, formen und nutzen seine Anhänger diese Essenz, um die Grenzen der Sterblichkeit zu überwinden. Anders als herkömmliche Glaubensrichtungen, die Gottheiten verehren, sehen sich Quintessenzialisten als künftige Gebieter über den Urstoff der Existenz."
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
   # Core Terms - Faith
   quintessence_faith: "Kult der Quintessenz"
   quintessence_faith_adj: "Quintessenz"

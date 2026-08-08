@@ -19,6 +19,9 @@
   quintessence_religion_adherent: "精粹主义者"
   quintessence_religion_adherent_plural: "精粹主义者"
   quintessence_religion_desc: "精粹教派并不把流经众生的原初生命力视为神性，而将其看作至高权能的源泉。信徒通过禁忌的鲜血仪式和精心衡量的献祭来提取、操纵并驾驭这种精粹，从而超越凡人的局限。与崇拜神祇的传统信仰不同，精粹主义者自视为终将掌控存在根基之人。"
+  bm_quintessence_identity_group_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_name: "$quintessence_religion$"
+  bm_quintessence_identity_doctrine_desc: "$quintessence_religion_desc$"
   # Core Terms - Faith
   quintessence_faith: "精粹教派"
   quintessence_faith_adj: "精粹"
